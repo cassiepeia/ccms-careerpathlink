@@ -1,0 +1,53 @@
+[09-Feb-2025 12:01:45 UTC] 
+[09-Feb-2025 12:01:45 UTC] Array
+(
+    [coach_id] => 1
+    [date_slot] => 2025-02-11
+    [day] => Tuesday
+    [start_time] => 8:00
+    [end_time] => 9:00
+)
+
+[09-Feb-2025 12:22:13 UTC] 
+[09-Feb-2025 12:22:13 UTC] Array
+(
+    [coach_id] => 1
+    [date_slot] => 2025-02-10
+    [day] => Monday
+    [start_time] => 8:00
+    [end_time] => 9:00
+)
+
+[14-Feb-2025 00:23:47 UTC] Assigning coach_id: 6 to user_id: 36
+[16-Feb-2025 23:17:34 UTC] Received User ID: 6
+[16-Feb-2025 23:17:34 UTC] Coach not found for user ID: 6
+[25-Mar-2025 14:42:15 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect date value: 'March 25, 2025' for column 'date_slot' at row 1 in D:\laragon\www\final_career_coaching\api\time_slot\create_time_slot.php:59
+Stack trace:
+#0 D:\laragon\www\final_career_coaching\api\time_slot\create_time_slot.php(59): mysqli_stmt->execute()
+#1 {main}
+  thrown in D:\laragon\www\final_career_coaching\api\time_slot\create_time_slot.php on line 59
+[26-Mar-2025 02:56:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Data truncated for column 'day' at row 1 in D:\laragon\www\final_career_coaching\api\time_slot\create_time_slot.php:59
+Stack trace:
+#0 D:\laragon\www\final_career_coaching\api\time_slot\create_time_slot.php(59): mysqli_stmt->execute()
+#1 {main}
+  thrown in D:\laragon\www\final_career_coaching\api\time_slot\create_time_slot.php on line 59
+[26-Mar-2025 02:56:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Data truncated for column 'day' at row 1 in D:\laragon\www\final_career_coaching\api\time_slot\create_time_slot.php:59
+Stack trace:
+#0 D:\laragon\www\final_career_coaching\api\time_slot\create_time_slot.php(59): mysqli_stmt->execute()
+#1 {main}
+  thrown in D:\laragon\www\final_career_coaching\api\time_slot\create_time_slot.php on line 59
+[26-Mar-2025 02:56:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Data truncated for column 'day' at row 1 in D:\laragon\www\final_career_coaching\api\time_slot\create_time_slot.php:59
+Stack trace:
+#0 D:\laragon\www\final_career_coaching\api\time_slot\create_time_slot.php(59): mysqli_stmt->execute()
+#1 {main}
+  thrown in D:\laragon\www\final_career_coaching\api\time_slot\create_time_slot.php on line 59
+[27-Mar-2025 00:27:51 UTC] Received user_id: 36
+[27-Mar-2025 00:27:52 UTC] Query executed. Rows found: 0
+[27-Mar-2025 00:28:46 UTC] Received user_id: 36
+[27-Mar-2025 00:28:46 UTC] Query executed. Rows found: 0
+[27-Mar-2025 01:13:14 UTC] PHP Fatal error:  Uncaught TypeError: array_keys(): Argument #1 ($array) must be of type array, null given in D:\laragon\www\final_career_coaching\api\time_slot\create_time_slot.php:31
+Stack trace:
+#0 D:\laragon\www\final_career_coaching\api\time_slot\create_time_slot.php(31): array_keys(NULL)
+#1 {main}
+  thrown in D:\laragon\www\final_career_coaching\api\time_slot\create_time_slot.php on line 31
+[04-May-2025 06:01:53 UTC] Creating time slot for user_id: 19-29836

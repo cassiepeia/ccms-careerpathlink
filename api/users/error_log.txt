@@ -1,0 +1,593 @@
+[10-Feb-2025 02:16:59 UTC] Received JSON: 
+[10-Feb-2025 02:16:59 UTC] Received JSON: {"name":"Jannica ","email":"nsfnkas@gmail.com","password":"bsdgaui","role":"Student","coach_role":""}
+[10-Feb-2025 02:16:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Field 'user_id' doesn't have a default value in D:\laragon\www\final_career_coaching\api\users\create_user.php:41
+Stack trace:
+#0 D:\laragon\www\final_career_coaching\api\users\create_user.php(41): mysqli_stmt->execute()
+#1 {main}
+  thrown in D:\laragon\www\final_career_coaching\api\users\create_user.php on line 41
+[10-Feb-2025 02:23:40 UTC] Received JSON: 
+[10-Feb-2025 02:23:56 UTC] Received JSON: 
+[10-Feb-2025 02:23:56 UTC] Received JSON: {"user_id":"725610","name":"nsnfka","email":"afbab@gmail.com","password":"jksfka","role":"Student","coach_role":""}
+[10-Feb-2025 02:32:08 UTC] Received JSON: 
+[10-Feb-2025 02:32:08 UTC] Received JSON: {"user_id":"1987564","name":"vjvjv","email":"gufuf@gmail.com","password":"vgyguibi","role":"Student","coach_role":""}
+[10-Feb-2025 02:43:19 UTC] Received JSON: 
+[10-Feb-2025 02:43:19 UTC] Received JSON: {"user_id":"1963258","name":"hafhai","email":"ifhih@gmail.com","password":"danfhai","role":"Student","coach_role":""}
+[10-Feb-2025 02:58:51 UTC] Received JSON: 
+[10-Feb-2025 02:58:51 UTC] Received JSON: {"user_id":"19-67524","name":"Hachiko Obelidor","email":"hachiko.obelidor@unc.edu.ph","password":"hachi","role":"Student","coach_role":""}
+[11-Feb-2025 12:11:57 UTC] Received JSON: 
+[11-Feb-2025 12:11:57 UTC] Received JSON: {"user_id":"19-42344","name":"Cassiopeia Obelidor","email":"cassie","password":"cassie","role":"Student","coach_role":""}
+[11-Feb-2025 12:11:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '19-42344' for key 'users.user_id' in D:\laragon\www\final_career_coaching\api\users\create_user.php:42
+Stack trace:
+#0 D:\laragon\www\final_career_coaching\api\users\create_user.php(42): mysqli_stmt->execute()
+#1 {main}
+  thrown in D:\laragon\www\final_career_coaching\api\users\create_user.php on line 42
+[11-Feb-2025 12:12:52 UTC] Received JSON: 
+[11-Feb-2025 12:12:52 UTC] Received JSON: {"user_id":"19-42344","name":"Cassiopeia Obelidor","email":"cassie","password":"cassie","role":"Student","coach_role":""}
+[11-Feb-2025 12:12:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '19-42344' for key 'users.user_id' in D:\laragon\www\final_career_coaching\api\users\create_user.php:42
+Stack trace:
+#0 D:\laragon\www\final_career_coaching\api\users\create_user.php(42): mysqli_stmt->execute()
+#1 {main}
+  thrown in D:\laragon\www\final_career_coaching\api\users\create_user.php on line 42
+[11-Feb-2025 12:14:13 UTC] Received JSON: 
+[11-Feb-2025 12:14:13 UTC] Received JSON: {"user_id":"19-45372","name":"Cass","email":"njdfn@gmail.com","password":"dsghas","role":"Student","coach_role":""}
+[11-Feb-2025 13:28:10 UTC] Received JSON: 
+[11-Feb-2025 13:28:10 UTC] Received JSON: {"user_id":"19-41344","name":"Haciko Obelidor","email":"hachiko.obelidor@unc.edu.ph","password":"hachi","role":"Student","coach_role":""}
+[11-Feb-2025 13:33:25 UTC] Received JSON: 
+[11-Feb-2025 13:33:25 UTC] Received JSON: {"user_id":"19-41344","name":"Hachicko","email":"hachi@unc.edu.ph","password":"hachi","role":"Student","coach_role":""}
+[11-Feb-2025 14:38:17 UTC] Received JSON: 
+[11-Feb-2025 14:38:17 UTC] Received JSON: {"user_id":"19-41344","name":"Hachiko","email":"hachiko@unc.edu.ph","password":"hachi","role":"Student","coach_role":""}
+[11-Feb-2025 14:38:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Field 'user_id' doesn't have a default value in D:\laragon\www\final_career_coaching\api\users\create_user.php:42
+Stack trace:
+#0 D:\laragon\www\final_career_coaching\api\users\create_user.php(42): mysqli_stmt->execute()
+#1 {main}
+  thrown in D:\laragon\www\final_career_coaching\api\users\create_user.php on line 42
+[11-Feb-2025 14:40:13 UTC] Received JSON: 
+[11-Feb-2025 14:40:13 UTC] Received JSON: {"user_id":"19-45344","name":"Hachiko","email":"hachiko@unc.edu.ph","password":"hachi","role":"Student","coach_role":""}
+[11-Feb-2025 14:40:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Field 'user_id' doesn't have a default value in D:\laragon\www\final_career_coaching\api\users\create_user.php:42
+Stack trace:
+#0 D:\laragon\www\final_career_coaching\api\users\create_user.php(42): mysqli_stmt->execute()
+#1 {main}
+  thrown in D:\laragon\www\final_career_coaching\api\users\create_user.php on line 42
+[11-Feb-2025 14:48:10 UTC] Received JSON: 
+[11-Feb-2025 14:48:10 UTC] Received JSON: {"user_id":"19-41344","name":"Hachiko","email":"hachiko@unc.edu,ph","password":"hachi","role":"Student","coach_role":""}
+[11-Feb-2025 14:48:11 UTC] Received user_id: 19-41344
+[11-Feb-2025 14:48:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Field 'user_id' doesn't have a default value in D:\laragon\www\final_career_coaching\api\users\create_user.php:51
+Stack trace:
+#0 D:\laragon\www\final_career_coaching\api\users\create_user.php(51): mysqli_stmt->execute()
+#1 {main}
+  thrown in D:\laragon\www\final_career_coaching\api\users\create_user.php on line 51
+[11-Feb-2025 14:49:02 UTC] Received JSON: 
+[11-Feb-2025 14:49:02 UTC] Received JSON: {"user_id":"19-41344","name":"Hachiko","email":"hachiko@unc.edu.ph","password":"hachi","role":"Student","coach_role":""}
+[11-Feb-2025 14:49:03 UTC] Received user_id: 19-41344
+[11-Feb-2025 14:49:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Field 'user_id' doesn't have a default value in D:\laragon\www\final_career_coaching\api\users\create_user.php:51
+Stack trace:
+#0 D:\laragon\www\final_career_coaching\api\users\create_user.php(51): mysqli_stmt->execute()
+#1 {main}
+  thrown in D:\laragon\www\final_career_coaching\api\users\create_user.php on line 51
+[11-Feb-2025 14:52:03 UTC] Received JSON: 
+[11-Feb-2025 14:52:03 UTC] Invalid input data received
+[11-Feb-2025 14:52:03 UTC] Received JSON: {"user_id":"19-41344","name":"Hachiko","email":"hachiko@unc.edu.ph","password":"hachi","role":"Student","coach_role":""}
+[11-Feb-2025 14:52:03 UTC] Final user_id before insert: '19-41344'
+[11-Feb-2025 14:52:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Field 'user_id' doesn't have a default value in D:\laragon\www\final_career_coaching\api\users\create_user.php:52
+Stack trace:
+#0 D:\laragon\www\final_career_coaching\api\users\create_user.php(52): mysqli_stmt->execute()
+#1 {main}
+  thrown in D:\laragon\www\final_career_coaching\api\users\create_user.php on line 52
+[11-Feb-2025 14:52:04 UTC] Received JSON: {"user_id":"19-41344","name":"Hachiko","email":"hachiko@unc.edu.ph","password":"hachi","role":"Student","coach_role":""}
+[11-Feb-2025 14:52:04 UTC] Final user_id before insert: '19-41344'
+[11-Feb-2025 14:52:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Field 'user_id' doesn't have a default value in D:\laragon\www\final_career_coaching\api\users\create_user.php:52
+Stack trace:
+#0 D:\laragon\www\final_career_coaching\api\users\create_user.php(52): mysqli_stmt->execute()
+#1 {main}
+  thrown in D:\laragon\www\final_career_coaching\api\users\create_user.php on line 52
+[11-Feb-2025 14:52:53 UTC] Received JSON: 
+[11-Feb-2025 14:52:53 UTC] Invalid input data received
+[11-Feb-2025 14:52:53 UTC] Received JSON: {"user_id":"19-41344","name":"Hachiko","email":"hachiko@unc.edu.ph","password":"hachi","role":"Student","coach_role":""}
+[11-Feb-2025 14:52:53 UTC] Final user_id before insert: '19-41344'
+[11-Feb-2025 14:52:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Field 'user_id' doesn't have a default value in D:\laragon\www\final_career_coaching\api\users\create_user.php:52
+Stack trace:
+#0 D:\laragon\www\final_career_coaching\api\users\create_user.php(52): mysqli_stmt->execute()
+#1 {main}
+  thrown in D:\laragon\www\final_career_coaching\api\users\create_user.php on line 52
+[11-Feb-2025 14:53:48 UTC] Received JSON: 
+[11-Feb-2025 14:53:48 UTC] Invalid input data received
+[11-Feb-2025 14:53:48 UTC] Received JSON: {"user_id":"19-41344","name":"Hachiko","email":"hachiko@unc.edu.ph","password":"hachi","role":"Student","coach_role":""}
+[11-Feb-2025 14:53:48 UTC] Final user_id before insert: '19-41344'
+[11-Feb-2025 14:53:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Field 'user_id' doesn't have a default value in D:\laragon\www\final_career_coaching\api\users\create_user.php:52
+Stack trace:
+#0 D:\laragon\www\final_career_coaching\api\users\create_user.php(52): mysqli_stmt->execute()
+#1 {main}
+  thrown in D:\laragon\www\final_career_coaching\api\users\create_user.php on line 52
+[11-Feb-2025 14:54:31 UTC] Received JSON: 
+[11-Feb-2025 14:54:31 UTC] Invalid input data received
+[11-Feb-2025 14:54:31 UTC] Received JSON: {"user_id":"19-42344","name":"ksnfksa","email":"dsga@gmail.com","password":"sjfjkas","role":"Student","coach_role":""}
+[11-Feb-2025 14:54:31 UTC] Final user_id before insert: '19-42344'
+[11-Feb-2025 14:54:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '19-42344' for key 'users.user_id' in D:\laragon\www\final_career_coaching\api\users\create_user.php:52
+Stack trace:
+#0 D:\laragon\www\final_career_coaching\api\users\create_user.php(52): mysqli_stmt->execute()
+#1 {main}
+  thrown in D:\laragon\www\final_career_coaching\api\users\create_user.php on line 52
+[11-Feb-2025 14:56:11 UTC] Received JSON: 
+[11-Feb-2025 14:56:11 UTC] Invalid input data received
+[11-Feb-2025 14:56:11 UTC] Received JSON: {"user_id":"19-41344","name":"ksnfksa","email":"dsga@gmail.com","password":"sjfjkas","role":"Student","coach_role":""}
+[11-Feb-2025 14:56:11 UTC] Final user_id before insert: '19-41344'
+[11-Feb-2025 14:56:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Field 'user_id' doesn't have a default value in D:\laragon\www\final_career_coaching\api\users\create_user.php:52
+Stack trace:
+#0 D:\laragon\www\final_career_coaching\api\users\create_user.php(52): mysqli_stmt->execute()
+#1 {main}
+  thrown in D:\laragon\www\final_career_coaching\api\users\create_user.php on line 52
+[11-Feb-2025 15:00:55 UTC] Received JSON: 
+[11-Feb-2025 15:00:55 UTC] Received JSON: {"user_id":"19-41344","name":"Hachiko","email":"hachiko@unc.edu.ph","password":"hachi","role":"Student","coach_role":""}
+[11-Feb-2025 15:00:55 UTC] Received user_id: 19-41344
+[11-Feb-2025 15:00:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Field 'user_id' doesn't have a default value in D:\laragon\www\final_career_coaching\api\users\create_user.php:51
+Stack trace:
+#0 D:\laragon\www\final_career_coaching\api\users\create_user.php(51): mysqli_stmt->execute()
+#1 {main}
+  thrown in D:\laragon\www\final_career_coaching\api\users\create_user.php on line 51
+[11-Feb-2025 15:06:35 UTC] Received JSON: 
+[11-Feb-2025 15:07:35 UTC] Received JSON: 
+[11-Feb-2025 15:07:35 UTC] Received JSON: {"user_id":"19-41344","name":"Hachiko","email":"hachiko@unc.edu.ph","password":"hachi","role":"Student","coach_role":""}
+[11-Feb-2025 15:07:36 UTC] Received user_id: 19-41344
+[11-Feb-2025 15:07:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Field 'user_id' doesn't have a default value in D:\laragon\www\final_career_coaching\api\users\create_user.php:58
+Stack trace:
+#0 D:\laragon\www\final_career_coaching\api\users\create_user.php(58): mysqli_stmt->execute()
+#1 {main}
+  thrown in D:\laragon\www\final_career_coaching\api\users\create_user.php on line 58
+[12-Feb-2025 10:41:48 UTC] Received JSON: 
+[12-Feb-2025 10:41:48 UTC] Received JSON: {"user_id":"19-52453","name":"Hachiko","email":"hachiko@unc.edu.ph","password":"hachi","role":"Student","coach_role":""}
+[12-Feb-2025 10:41:48 UTC] Received user_id: 19-52453
+[12-Feb-2025 10:43:04 UTC] Received JSON: 
+[12-Feb-2025 10:43:04 UTC] Received JSON: {"user_id":"19-53728","name":"June Arreb Danila","email":"junearreb.danila@unc.edu.ph","password":"june","role":"Student","coach_role":""}
+[12-Feb-2025 10:43:04 UTC] Received user_id: 19-53728
+[12-Feb-2025 10:44:08 UTC] Received JSON: 
+[12-Feb-2025 10:44:08 UTC] Received JSON: {"user_id":"19-82573","name":"June Arreb Danila","email":"junearreb.danilla@unc.edu.ph","password":"june","role":"Coach","coach_role":"Executive Coach"}
+[12-Feb-2025 10:44:08 UTC] Received user_id: 19-82573
+[12-Feb-2025 10:54:26 UTC] Received JSON: 
+[12-Feb-2025 10:54:26 UTC] Received JSON: {"user_id":"18-52837","name":"June Arreb Danila","email":"junearreb.danila@unc.edu.ph","password":"june","role":"Student","coach_role":""}
+[12-Feb-2025 10:54:26 UTC] Received user_id: 18-52837
+[12-Feb-2025 10:55:13 UTC] Received JSON: 
+[12-Feb-2025 10:55:13 UTC] Received JSON: {"user_id":"19-25387","name":"June Arreb Danilla","email":"junearreb.danilla@unc.edu.ph","password":"june","role":"Coach","coach_role":"Executive Coach"}
+[12-Feb-2025 10:55:13 UTC] Received user_id: 19-25387
+[12-Feb-2025 11:59:30 UTC] Received JSON: 
+[12-Feb-2025 11:59:30 UTC] Received JSON: {"user_id":"18-27636","name":"June Arreb Danilla","email":"junearreb.danilla@unc.edu.ph","password":"june","role":"Coach","coach_role":"Executive Coach"}
+[12-Feb-2025 11:59:31 UTC] Received user_id: 18-27636
+[14-Feb-2025 00:11:56 UTC] Received JSON: 
+[14-Feb-2025 00:11:56 UTC] Received JSON: {"user_id":"15-29364","name":"June Arreb Danilla","email":"junearreb.danilla@un.edu.ph","password":"june","role":"Coach","coach_role":"Executive Coach"}
+[14-Feb-2025 00:11:56 UTC] Received user_id: 15-29364
+[14-Feb-2025 00:53:26 UTC] Received JSON: 
+[14-Feb-2025 00:53:26 UTC] Received JSON: {"user_id":"19-35498","name":"Nami","email":"nami@unc.edhu.ph","password":"nami","role":"Student","coach_role":""}
+[14-Feb-2025 00:53:26 UTC] Received user_id: 19-35498
+[27-Mar-2025 00:13:44 UTC] Received JSON: 
+[27-Mar-2025 00:13:44 UTC] Received JSON: {"user_id":"19-42344","name":"Cassiopeia Obelidor","email":"cassiopeia.obelidor@unc.edu.ph","password":"cassie","role":"Student","coach_role":""}
+[27-Mar-2025 00:13:44 UTC] Received user_id: 19-42344
+[27-Mar-2025 00:15:54 UTC] Received JSON: 
+[27-Mar-2025 00:15:54 UTC] Received JSON: {"user_id":"17-67243","name":"Hilary Joan Prilles","email":"hilaryjoan.prilles@unc.edu.ph","password":"hilary","role":"Coach","coach_role":"Career Advisor"}
+[27-Mar-2025 00:15:54 UTC] Received user_id: 17-67243
+[27-Mar-2025 00:17:06 UTC] Received JSON: 
+[27-Mar-2025 00:17:06 UTC] Received JSON: {"user_id":"15-62936","name":"Jo-ann Dancanlan","email":"joann.dancanlan@unc.edu.ph","password":"joann","role":"Career Center","coach_role":""}
+[27-Mar-2025 00:17:07 UTC] Received user_id: 15-62936
+[27-Mar-2025 00:33:56 UTC] Received JSON: 
+[27-Mar-2025 00:33:56 UTC] Received JSON: {"user_id":"19-42344","name":"Cassiopeia Obelidor","email":"cassiopeia.obelidor@unc.edu.ph","password":"cassie","role":"Student","coach_role":""}
+[27-Mar-2025 00:33:57 UTC] Received user_id: 19-42344
+[27-Mar-2025 00:34:50 UTC] Received JSON: 
+[27-Mar-2025 00:34:50 UTC] Received JSON: {"user_id":"17-82673","name":"Hilary Joan Prilles","email":"hilaryjoan.prilles@unc.edu.ph","password":"hilary","role":"Coach","coach_role":"Career Advisor"}
+[27-Mar-2025 00:34:50 UTC] Received user_id: 17-82673
+[27-Mar-2025 00:35:54 UTC] Received JSON: 
+[27-Mar-2025 00:35:54 UTC] Received JSON: {"user_id":"16-62537","name":"Jo-ann Dancanlan","email":"joann.dancanlan@unc.edu.ph","password":"joann","role":"Career Center","coach_role":""}
+[27-Mar-2025 00:35:54 UTC] Received user_id: 16-62537
+[28-Mar-2025 07:05:42 UTC] Received JSON: 
+[28-Mar-2025 07:05:42 UTC] Received JSON: {"user_id":"19-42344"}
+[28-Mar-2025 07:09:39 UTC] Received JSON: 
+[28-Mar-2025 07:09:39 UTC] Received JSON: {"user_id":"19-42344"}
+[28-Mar-2025 07:10:54 UTC] Received JSON: 
+[28-Mar-2025 07:10:54 UTC] Received JSON: {"user_id":"19-42344"}
+[28-Mar-2025 07:11:04 UTC] Received JSON: 
+[28-Mar-2025 07:11:04 UTC] Received JSON: {"user_id":"19-42344"}
+[28-Mar-2025 07:12:04 UTC] Received JSON: 
+[28-Mar-2025 07:12:04 UTC] Received JSON: {"user_id":"19-42344"}
+[28-Mar-2025 07:21:34 UTC] Received JSON: 
+[28-Mar-2025 07:21:34 UTC] Received JSON: {"user_id":"19-52453"}
+[28-Mar-2025 07:22:22 UTC] Received JSON: 
+[28-Mar-2025 07:22:22 UTC] Received JSON: {"user_id":"19-42344"}
+[28-Mar-2025 07:27:37 UTC] Received JSON: 
+[28-Mar-2025 07:27:37 UTC] Received JSON: {"user_id":"19-42344"}
+[28-Mar-2025 07:35:09 UTC] Received JSON: 
+[28-Mar-2025 07:35:28 UTC] Received JSON: 
+[28-Mar-2025 07:36:24 UTC] Received JSON: 
+[28-Mar-2025 07:36:24 UTC] Received JSON: {"user_id":"19-42344"}
+[28-Mar-2025 07:38:23 UTC] Received JSON: 
+[28-Mar-2025 07:38:23 UTC] Received JSON: {"user_id":"19-42344"}
+[28-Mar-2025 07:39:23 UTC] Received JSON: 
+[28-Mar-2025 07:39:23 UTC] Received JSON: {"user_id":"19-42344"}
+[28-Mar-2025 07:39:48 UTC] Received JSON: 
+[28-Mar-2025 07:39:48 UTC] Received JSON: {"user_id":"19-42344"}
+[28-Mar-2025 07:42:16 UTC] Received JSON: 
+[28-Mar-2025 07:43:15 UTC] Received JSON: 
+[28-Mar-2025 07:43:15 UTC] Received JSON: {"user_id":"19-42344"}
+[28-Mar-2025 07:43:44 UTC] Received JSON: 
+[28-Mar-2025 07:43:44 UTC] Received JSON: {"user_id":"19-42344"}
+[28-Mar-2025 08:45:07 UTC] Received JSON: 
+[28-Mar-2025 08:45:07 UTC] Received JSON: {"user_id":"19-42344"}
+[28-Mar-2025 08:46:41 UTC] Received JSON: 
+[28-Mar-2025 08:50:58 UTC] PHP Warning:  require(PHPMailer/src/Exception.php): Failed to open stream: No such file or directory in D:\laragon\www\final_career_coaching\api\users\send_password_reset.php on line 12
+[28-Mar-2025 08:50:58 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'PHPMailer/src/Exception.php' (include_path='.;D:/laragon/etc/php/pear') in D:\laragon\www\final_career_coaching\api\users\send_password_reset.php:12
+Stack trace:
+#0 {main}
+  thrown in D:\laragon\www\final_career_coaching\api\users\send_password_reset.php on line 12
+[28-Mar-2025 08:50:58 UTC] PHP Warning:  require(PHPMailer/src/Exception.php): Failed to open stream: No such file or directory in D:\laragon\www\final_career_coaching\api\users\send_password_reset.php on line 12
+[28-Mar-2025 08:50:58 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'PHPMailer/src/Exception.php' (include_path='.;D:/laragon/etc/php/pear') in D:\laragon\www\final_career_coaching\api\users\send_password_reset.php:12
+Stack trace:
+#0 {main}
+  thrown in D:\laragon\www\final_career_coaching\api\users\send_password_reset.php on line 12
+[28-Mar-2025 08:51:15 UTC] PHP Warning:  require(PHPMailer/src/Exception.php): Failed to open stream: No such file or directory in D:\laragon\www\final_career_coaching\api\users\send_password_reset.php on line 12
+[28-Mar-2025 08:51:15 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'PHPMailer/src/Exception.php' (include_path='.;D:/laragon/etc/php/pear') in D:\laragon\www\final_career_coaching\api\users\send_password_reset.php:12
+Stack trace:
+#0 {main}
+  thrown in D:\laragon\www\final_career_coaching\api\users\send_password_reset.php on line 12
+[28-Mar-2025 08:51:15 UTC] PHP Warning:  require(PHPMailer/src/Exception.php): Failed to open stream: No such file or directory in D:\laragon\www\final_career_coaching\api\users\send_password_reset.php on line 12
+[28-Mar-2025 08:51:15 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'PHPMailer/src/Exception.php' (include_path='.;D:/laragon/etc/php/pear') in D:\laragon\www\final_career_coaching\api\users\send_password_reset.php:12
+Stack trace:
+#0 {main}
+  thrown in D:\laragon\www\final_career_coaching\api\users\send_password_reset.php on line 12
+[28-Mar-2025 08:55:20 UTC] PHP Warning:  require(PHPMailer/src/Exception.php): Failed to open stream: No such file or directory in D:\laragon\www\final_career_coaching\api\users\send_password_reset.php on line 13
+[28-Mar-2025 08:55:20 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'PHPMailer/src/Exception.php' (include_path='.;D:/laragon/etc/php/pear') in D:\laragon\www\final_career_coaching\api\users\send_password_reset.php:13
+Stack trace:
+#0 {main}
+  thrown in D:\laragon\www\final_career_coaching\api\users\send_password_reset.php on line 13
+[28-Mar-2025 08:55:37 UTC] PHP Warning:  require(PHPMailer/src/Exception.php): Failed to open stream: No such file or directory in D:\laragon\www\final_career_coaching\api\users\send_password_reset.php on line 13
+[28-Mar-2025 08:55:37 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'PHPMailer/src/Exception.php' (include_path='.;D:/laragon/etc/php/pear') in D:\laragon\www\final_career_coaching\api\users\send_password_reset.php:13
+Stack trace:
+#0 {main}
+  thrown in D:\laragon\www\final_career_coaching\api\users\send_password_reset.php on line 13
+[28-Mar-2025 09:00:43 UTC] PHP Warning:  require(PHPMailer/src/Exception.php): Failed to open stream: No such file or directory in D:\laragon\www\final_career_coaching\api\users\send_password_reset.php on line 19
+[28-Mar-2025 09:00:43 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'PHPMailer/src/Exception.php' (include_path='.;D:/laragon/etc/php/pear') in D:\laragon\www\final_career_coaching\api\users\send_password_reset.php:19
+Stack trace:
+#0 {main}
+  thrown in D:\laragon\www\final_career_coaching\api\users\send_password_reset.php on line 19
+[28-Mar-2025 09:02:36 UTC] Received JSON: 
+[28-Mar-2025 09:02:36 UTC] Received JSON: {"user_id":"19-42344"}
+[28-Mar-2025 09:05:14 UTC] Received JSON: 
+[28-Mar-2025 09:05:14 UTC] Received JSON: {"user_id":"19-42344"}
+[28-Mar-2025 09:06:39 UTC] Received JSON: 
+[28-Mar-2025 09:06:39 UTC] Received JSON: {"user_id":"19-42344"}
+[28-Mar-2025 09:07:29 UTC] Received JSON: 
+[28-Mar-2025 09:07:29 UTC] Received JSON: {"user_id":"19-42344"}
+[28-Mar-2025 09:08:02 UTC] Received JSON: 
+[28-Mar-2025 09:08:02 UTC] Received JSON: {"user_id":"19-42344"}
+[28-Mar-2025 09:08:22 UTC] Received JSON: 
+[28-Mar-2025 09:08:22 UTC] Received JSON: {"user_id":"19-42344"}
+[28-Mar-2025 09:33:08 UTC] Received JSON: 
+[28-Mar-2025 09:33:08 UTC] Received JSON: {"user_id":"19-42344"}
+[28-Mar-2025 23:01:11 UTC] Received JSON: 
+[28-Mar-2025 23:01:11 UTC] Received JSON: {"user_id":"19-42344"}
+[28-Mar-2025 23:01:20 UTC] Received JSON: 
+[28-Mar-2025 23:01:20 UTC] Received JSON: {"user_id":"19-42344"}
+[29-Mar-2025 12:40:22 UTC] Received JSON: 
+[29-Mar-2025 12:40:22 UTC] Received JSON: {"user_id":"19-42344"}
+[30-Mar-2025 22:55:58 UTC] Received JSON: 
+[30-Mar-2025 22:55:58 UTC] Received JSON: {"user_id":"19-42344"}
+[31-Mar-2025 01:43:53 UTC] Received JSON: 
+[31-Mar-2025 01:43:53 UTC] Received JSON: {"user_id":"19-42344"}
+[02-Apr-2025 04:32:31 UTC] Received JSON: 
+[02-Apr-2025 20:22:13 UTC] Received JSON: 
+[02-Apr-2025 20:22:13 UTC] Received JSON: {"user_id":"19-42344"}
+[03-Apr-2025 00:27:25 UTC] Received JSON: 
+[03-Apr-2025 00:27:25 UTC] Received JSON: {"user_id":"19-42344"}
+[03-Apr-2025 03:14:59 UTC] Received JSON: 
+[03-Apr-2025 03:14:59 UTC] Received JSON: {"user_id":"19-42344"}
+[04-Apr-2025 22:23:35 UTC] Received JSON: 
+[04-Apr-2025 22:23:35 UTC] Received JSON: {"user_id":"19-27396","name":"June Arreb Danilla","email":"junearreb.danilla@unc.edu.ph","password":"june","role":"Coach","coach_role":"Interview Expert"}
+[04-Apr-2025 22:23:35 UTC] Received user_id: 19-27396
+[04-Apr-2025 22:23:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'coach_role' in 'field list' in D:\laragon\www\final_career_coaching\api\users\create_user.php:55
+Stack trace:
+#0 D:\laragon\www\final_career_coaching\api\users\create_user.php(55): mysqli->prepare('INSERT INTO use...')
+#1 {main}
+  thrown in D:\laragon\www\final_career_coaching\api\users\create_user.php on line 55
+[05-Apr-2025 02:53:12 UTC] Received JSON: 
+[05-Apr-2025 02:53:12 UTC] Received JSON: {"user_id":"19-42344"}
+[05-Apr-2025 09:10:15 UTC] Received JSON: 
+[05-Apr-2025 09:10:15 UTC] Received JSON: {"user_id":"19-42344"}
+[05-Apr-2025 09:10:18 UTC] Received JSON: {"user_id":"19-42344"}
+[05-Apr-2025 09:10:22 UTC] Received JSON: 
+[05-Apr-2025 09:10:22 UTC] Received JSON: {"user_id":"19-42344"}
+[06-Apr-2025 07:14:14 UTC] Received JSON: 
+[06-Apr-2025 07:14:14 UTC] Received JSON: {"user_id":"19-42344"}
+[06-Apr-2025 07:14:56 UTC] Received JSON: 
+[06-Apr-2025 07:14:56 UTC] Received JSON: {"user_id":"19-42344"}
+[06-Apr-2025 07:15:25 UTC] Received JSON: 
+[06-Apr-2025 07:15:25 UTC] Received JSON: {"user_id":"19-42344"}
+[06-Apr-2025 09:45:26 UTC] Received JSON: 
+[06-Apr-2025 09:45:26 UTC] Received JSON: {"user_id":"19-42344"}
+[06-Apr-2025 09:47:27 UTC] Received JSON: 
+[06-Apr-2025 09:47:27 UTC] Received JSON: {"user_id":"19-42344"}
+[07-Apr-2025 23:34:46 UTC] Received JSON: 
+[07-Apr-2025 23:34:46 UTC] Received JSON: {"user_id":"20-56725","name":"Hendrixon Moldes","email":"hendrixon.moldes@unc.edu.ph","password":"hemdrixon","role":"Student","coach_role":""}
+[07-Apr-2025 23:34:46 UTC] Received user_id: 20-56725
+[07-Apr-2025 23:34:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'coach_role' in 'field list' in D:\laragon\www\final_career_coaching\api\users\create_user.php:55
+Stack trace:
+#0 D:\laragon\www\final_career_coaching\api\users\create_user.php(55): mysqli->prepare('INSERT INTO use...')
+#1 {main}
+  thrown in D:\laragon\www\final_career_coaching\api\users\create_user.php on line 55
+[07-Apr-2025 23:34:50 UTC] Received JSON: {"user_id":"20-56725","name":"Hendrixon Moldes","email":"hendrixon.moldes@unc.edu.ph","password":"hemdrixon","role":"Student","coach_role":""}
+[07-Apr-2025 23:34:50 UTC] Received user_id: 20-56725
+[07-Apr-2025 23:34:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'coach_role' in 'field list' in D:\laragon\www\final_career_coaching\api\users\create_user.php:55
+Stack trace:
+#0 D:\laragon\www\final_career_coaching\api\users\create_user.php(55): mysqli->prepare('INSERT INTO use...')
+#1 {main}
+  thrown in D:\laragon\www\final_career_coaching\api\users\create_user.php on line 55
+[07-Apr-2025 23:34:51 UTC] Received JSON: {"user_id":"20-56725","name":"Hendrixon Moldes","email":"hendrixon.moldes@unc.edu.ph","password":"hemdrixon","role":"Student","coach_role":""}
+[07-Apr-2025 23:34:51 UTC] Received user_id: 20-56725
+[07-Apr-2025 23:34:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'coach_role' in 'field list' in D:\laragon\www\final_career_coaching\api\users\create_user.php:55
+Stack trace:
+#0 D:\laragon\www\final_career_coaching\api\users\create_user.php(55): mysqli->prepare('INSERT INTO use...')
+#1 {main}
+  thrown in D:\laragon\www\final_career_coaching\api\users\create_user.php on line 55
+[09-Apr-2025 07:18:54 UTC] Received JSON: 
+[09-Apr-2025 07:29:59 UTC] Received JSON: 
+[09-Apr-2025 07:29:59 UTC] Received JSON: {"user_id":"19-42344"}
+[09-Apr-2025 07:37:37 UTC] Received JSON: 
+[09-Apr-2025 07:43:33 UTC] Received JSON: 
+[09-Apr-2025 07:43:33 UTC] Received JSON: {"user_id":"19-42344"}
+[09-Apr-2025 07:43:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'user_type' in 'field list' in D:\laragon\www\final_career_coaching\api\users\send_password_reset.php:41
+Stack trace:
+#0 D:\laragon\www\final_career_coaching\api\users\send_password_reset.php(41): mysqli->prepare('SELECT email, u...')
+#1 {main}
+  thrown in D:\laragon\www\final_career_coaching\api\users\send_password_reset.php on line 41
+[09-Apr-2025 07:44:37 UTC] Received JSON: 
+[09-Apr-2025 07:44:37 UTC] Received JSON: {"user_id":"19-42344"}
+[09-Apr-2025 07:52:27 UTC] Received JSON: 
+[09-Apr-2025 07:52:27 UTC] Received JSON: {"user_id":"20-63845","name":"June Arreb Danila","email":"junearreb.danilla@unc.edu.ph","password":"junearreb","role":"Coach","coach_role":"Interview Expert"}
+[09-Apr-2025 07:52:27 UTC] Received user_id: 20-63845
+[09-Apr-2025 07:52:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'coach_role' in 'field list' in D:\laragon\www\final_career_coaching\api\users\create_user.php:55
+Stack trace:
+#0 D:\laragon\www\final_career_coaching\api\users\create_user.php(55): mysqli->prepare('INSERT INTO use...')
+#1 {main}
+  thrown in D:\laragon\www\final_career_coaching\api\users\create_user.php on line 55
+[09-Apr-2025 07:52:41 UTC] Received JSON: 
+[09-Apr-2025 07:52:41 UTC] Received JSON: {"user_id":"16-63544","name":"June Arreb Danila","email":"junearreb.danilla@unc.edu.ph","password":"junearreb","role":"Coach","coach_role":"Interview Expert"}
+[09-Apr-2025 07:52:41 UTC] Received user_id: 16-63544
+[09-Apr-2025 07:52:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'coach_role' in 'field list' in D:\laragon\www\final_career_coaching\api\users\create_user.php:55
+Stack trace:
+#0 D:\laragon\www\final_career_coaching\api\users\create_user.php(55): mysqli->prepare('INSERT INTO use...')
+#1 {main}
+  thrown in D:\laragon\www\final_career_coaching\api\users\create_user.php on line 55
+[09-Apr-2025 08:03:10 UTC] Received JSON: 
+[09-Apr-2025 08:03:10 UTC] Received JSON: {"user_id":"19-67546","name":"June Arreb Danila","email":"junearreb.danila@unc.edu.ph","password":"junearreb","role":"Student","coach_role":""}
+[09-Apr-2025 08:03:10 UTC] Received user_id: 19-67546
+[09-Apr-2025 08:03:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'coach_role' in 'field list' in D:\laragon\www\final_career_coaching\api\users\create_user.php:55
+Stack trace:
+#0 D:\laragon\www\final_career_coaching\api\users\create_user.php(55): mysqli->prepare('INSERT INTO use...')
+#1 {main}
+  thrown in D:\laragon\www\final_career_coaching\api\users\create_user.php on line 55
+[09-Apr-2025 23:25:23 UTC] Received JSON: 
+[09-Apr-2025 23:25:23 UTC] Received JSON: {"user_id":"19-42344"}
+[10-Apr-2025 01:29:25 UTC] Received JSON: 
+[10-Apr-2025 01:29:25 UTC] Received JSON: {"user_id":"19-42344"}
+[10-Apr-2025 01:34:57 UTC] Received JSON: 
+[10-Apr-2025 01:35:20 UTC] Received JSON: user_id=18-48672&user_type=coach
+[10-Apr-2025 01:48:55 UTC] Received JSON: 
+[10-Apr-2025 01:48:55 UTC] Received JSON: {"user_id":"null","user_type":"coach"}
+[10-Apr-2025 01:52:09 UTC] Received JSON: 
+[10-Apr-2025 01:52:29 UTC] Received JSON: 
+[10-Apr-2025 01:52:29 UTC] Received JSON: {"user_id":"18-48672","user_type":"coach"}
+[10-Apr-2025 01:53:16 UTC] Received JSON: 
+[10-Apr-2025 01:53:16 UTC] Received JSON: {"user_id":"19-42344"}
+[10-Apr-2025 02:44:34 UTC] Received JSON: 
+[10-Apr-2025 02:56:40 UTC] Received JSON: 
+[10-Apr-2025 02:56:40 UTC] Received JSON: {"user_id":"19-42344"}
+[10-Apr-2025 04:19:05 UTC] Received JSON: 
+[10-Apr-2025 04:19:05 UTC] Received JSON: {"user_id":"19-42344"}
+[10-Apr-2025 04:45:24 UTC] Received JSON: 
+[10-Apr-2025 04:45:24 UTC] Received JSON: {"user_id":"19-42344"}
+[10-Apr-2025 04:51:59 UTC] Received JSON: 
+[10-Apr-2025 04:51:59 UTC] Received JSON: {"user_id":"19-42344"}
+[10-Apr-2025 05:09:51 UTC] Received JSON: 
+[10-Apr-2025 05:09:51 UTC] Received JSON: {"user_id":"19-42344"}
+[11-Apr-2025 07:14:01 UTC] Received JSON: 
+[11-Apr-2025 07:14:01 UTC] Received JSON: {"user_id":"19-42344"}
+[12-Apr-2025 01:20:59 UTC] Received JSON: 
+[12-Apr-2025 01:20:59 UTC] Received JSON: {"user_id":"19-42344"}
+[13-Apr-2025 11:14:01 UTC] Received JSON: 
+[13-Apr-2025 11:14:01 UTC] Received JSON: {"user_id":"19-42344"}
+[13-Apr-2025 11:14:07 UTC] Received JSON: 
+[13-Apr-2025 11:14:07 UTC] Received JSON: {"user_id":"19-42344"}
+[16-Apr-2025 13:01:11 UTC] Received JSON: 
+[16-Apr-2025 13:01:11 UTC] Received JSON: {"user_id":"19-42344"}
+[16-Apr-2025 13:11:30 UTC] Received JSON: 
+[16-Apr-2025 13:11:30 UTC] Received JSON: {"user_id":"19-42344"}
+[26-Apr-2025 09:14:43 UTC] Received JSON: 
+[26-Apr-2025 09:14:43 UTC] Received JSON: {"user_id":"19-42344"}
+[26-Apr-2025 12:15:52 UTC] Received JSON: 
+[26-Apr-2025 12:15:52 UTC] Received JSON: {"user_id":"19-42344"}
+[26-Apr-2025 13:12:41 UTC] Received JSON: 
+[26-Apr-2025 13:12:41 UTC] Received JSON: {"user_id":"19-42344"}
+[27-Apr-2025 06:38:09 UTC] Received JSON: 
+[27-Apr-2025 06:38:09 UTC] Received JSON: {"user_id":"19-42344"}
+[28-Apr-2025 14:50:15 UTC] Received JSON: 
+[28-Apr-2025 14:50:15 UTC] Received JSON: {"user_id":"19-42344"}
+[03-May-2025 03:39:10 UTC] Received JSON: 
+[03-May-2025 03:45:52 UTC] Received JSON: 
+[03-May-2025 03:45:52 UTC] Received JSON: {"user_id":"22-57345","name":"Jennica Ortiz","email":"jennica.ortiz@unc.edu.ph","password":"jennica","role":"Student","department":"School of Computer and Information Sciences","course":"Bachelor of Science in Information Technology","level":"4th Year","address":"Camarines Sur","contact":"09635298537","gender":"Female"}
+[03-May-2025 03:45:52 UTC] Received user_id: 22-57345
+[03-May-2025 03:45:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'coach_role' in 'field list' in D:\laragon\www\final_career_coaching\api\users\create_user.php:55
+Stack trace:
+#0 D:\laragon\www\final_career_coaching\api\users\create_user.php(55): mysqli->prepare('INSERT INTO use...')
+#1 {main}
+  thrown in D:\laragon\www\final_career_coaching\api\users\create_user.php on line 55
+[03-May-2025 03:46:24 UTC] Received JSON: 
+[03-May-2025 03:46:24 UTC] Received JSON: {"user_id":"22-57345","name":"Jennica Ortiz","email":"jennica.ortiz@unc.edu.ph","password":"jennica","role":"Student","department":"School of Computer and Information Sciences","course":"Bachelor of Science in Information Technology","level":"4th Year","address":"Camarines Sur","contact":"09635298537","gender":"Female"}
+[03-May-2025 03:46:24 UTC] Received user_id: 22-57345
+[03-May-2025 03:46:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'coach_role' in 'field list' in D:\laragon\www\final_career_coaching\api\users\create_user.php:55
+Stack trace:
+#0 D:\laragon\www\final_career_coaching\api\users\create_user.php(55): mysqli->prepare('INSERT INTO use...')
+#1 {main}
+  thrown in D:\laragon\www\final_career_coaching\api\users\create_user.php on line 55
+[03-May-2025 03:47:58 UTC] Received JSON: 
+[03-May-2025 03:47:58 UTC] Received JSON: {"user_id":"22-57345","name":"Jennica Ortiz","email":"jennica.ortiz@unc.edu.ph","password":"jennica","role":"Student","department":"School of Computer and Information Sciences","course":"Bachelor of Science in Information Technology","level":"4th Year","address":"Camarines Sur","contact":"09635298537","gender":"Female"}
+[03-May-2025 03:47:58 UTC] Received user_id: 22-57345
+[03-May-2025 03:47:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'coach_role' in 'field list' in D:\laragon\www\final_career_coaching\api\users\create_user.php:55
+Stack trace:
+#0 D:\laragon\www\final_career_coaching\api\users\create_user.php(55): mysqli->prepare('INSERT INTO use...')
+#1 {main}
+  thrown in D:\laragon\www\final_career_coaching\api\users\create_user.php on line 55
+[03-May-2025 03:50:07 UTC] Received JSON: 
+[03-May-2025 03:50:07 UTC] Received JSON: {"user_id":"22-53762","name":"Jennica Mae Ortiz","email":"jennicamae.ortiz@unc.edu.ph","password":"jennica","role":"Student","department":"School of Computer and Information Sciences","course":"Bachelor of Science in Information Technology","level":"4th Year","address":"Calabanga, Camarines Sur","contact":"09365287536","gender":"Female"}
+[03-May-2025 03:50:07 UTC] Received user_id: 22-53762
+[03-May-2025 03:50:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'coach_role' in 'field list' in D:\laragon\www\final_career_coaching\api\users\create_user.php:55
+Stack trace:
+#0 D:\laragon\www\final_career_coaching\api\users\create_user.php(55): mysqli->prepare('INSERT INTO use...')
+#1 {main}
+  thrown in D:\laragon\www\final_career_coaching\api\users\create_user.php on line 55
+[03-May-2025 04:38:29 UTC] Received JSON: 
+[03-May-2025 04:38:29 UTC] Received JSON: {"user_id":"19-42344"}
+[03-May-2025 04:38:35 UTC] Received JSON: 
+[03-May-2025 04:38:35 UTC] Received JSON: {"user_id":"19-42344"}
+[03-May-2025 07:08:28 UTC] Received JSON: 
+[03-May-2025 07:08:28 UTC] Received JSON: {"user_id":"22-45134","name":"Jennica Mae Ortiz","email":"jennicamae.ortiz@unc.edu.ph","password":"jennicamae","role":"Student","coach_role":""}
+[03-May-2025 07:08:28 UTC] Received user_id: 22-45134
+[03-May-2025 07:08:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'coach_role' in 'field list' in D:\laragon\www\final_career_coaching\api\users\create_user.php:55
+Stack trace:
+#0 D:\laragon\www\final_career_coaching\api\users\create_user.php(55): mysqli->prepare('INSERT INTO use...')
+#1 {main}
+  thrown in D:\laragon\www\final_career_coaching\api\users\create_user.php on line 55
+[03-May-2025 07:08:35 UTC] Received JSON: 
+[03-May-2025 07:08:35 UTC] Received JSON: {"user_id":"22-45134","name":"Jennica Mae Ortiz","email":"jennicamae.ortiz@unc.edu.ph","password":"jennicamae","role":"Student","coach_role":""}
+[03-May-2025 07:08:35 UTC] Received user_id: 22-45134
+[03-May-2025 07:08:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'coach_role' in 'field list' in D:\laragon\www\final_career_coaching\api\users\create_user.php:55
+Stack trace:
+#0 D:\laragon\www\final_career_coaching\api\users\create_user.php(55): mysqli->prepare('INSERT INTO use...')
+#1 {main}
+  thrown in D:\laragon\www\final_career_coaching\api\users\create_user.php on line 55
+[03-May-2025 07:08:44 UTC] Received JSON: 
+[03-May-2025 07:08:44 UTC] Received JSON: {"user_id":"22-76845","name":"Jennica Mae Ortiz","email":"jennicamae.ortiz@unc.edu.ph","password":"jennicamae","role":"Student","coach_role":""}
+[03-May-2025 07:08:44 UTC] Received user_id: 22-76845
+[03-May-2025 07:08:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'coach_role' in 'field list' in D:\laragon\www\final_career_coaching\api\users\create_user.php:55
+Stack trace:
+#0 D:\laragon\www\final_career_coaching\api\users\create_user.php(55): mysqli->prepare('INSERT INTO use...')
+#1 {main}
+  thrown in D:\laragon\www\final_career_coaching\api\users\create_user.php on line 55
+[03-May-2025 07:53:31 UTC] Received JSON: 
+[03-May-2025 07:53:31 UTC] Received JSON: {"user_id":"19-29836","name":"Andrew Valeros","email":"andrew.valeros@unc.edu.ph","password":"andrew","role":"Workforce Development Trainer"}
+[03-May-2025 07:53:31 UTC] Received user_id: 19-29836
+[03-May-2025 08:14:11 UTC] Received JSON: 
+[03-May-2025 08:14:11 UTC] Received JSON: {"user_id":"20-18543","name":"Jennica Mae Ortiz","email":"jennicamae.ortiz@unc.edu.ph","password":"jennicamae","role":"Student"}
+[03-May-2025 08:14:11 UTC] Received user_id: 20-18543
+[03-May-2025 08:14:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Field 'department' doesn't have a default value in D:\laragon\www\final_career_coaching\api\users\create_user.php:57
+Stack trace:
+#0 D:\laragon\www\final_career_coaching\api\users\create_user.php(57): mysqli_stmt->execute()
+#1 {main}
+  thrown in D:\laragon\www\final_career_coaching\api\users\create_user.php on line 57
+[03-May-2025 08:14:25 UTC] Received JSON: 
+[03-May-2025 08:14:25 UTC] Received JSON: {"user_id":"20-39474","name":"Jennica Mae Ortiz","email":"jennicamae.ortiz@unc.edu.ph","password":"jennicamae","role":"Student"}
+[03-May-2025 08:14:25 UTC] Received user_id: 20-39474
+[03-May-2025 08:14:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Field 'department' doesn't have a default value in D:\laragon\www\final_career_coaching\api\users\create_user.php:57
+Stack trace:
+#0 D:\laragon\www\final_career_coaching\api\users\create_user.php(57): mysqli_stmt->execute()
+#1 {main}
+  thrown in D:\laragon\www\final_career_coaching\api\users\create_user.php on line 57
+[03-May-2025 08:15:49 UTC] Received JSON: 
+[03-May-2025 08:15:49 UTC] Received JSON: {"user_id":"20-39474","name":"Jennica Mae Ortiz","email":"jennicamae.ortiz@unc.edu.ph","password":"jennicamae","role":"Student"}
+[03-May-2025 08:15:49 UTC] Received user_id: 20-39474
+[03-May-2025 08:15:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Field 'department' doesn't have a default value in D:\laragon\www\final_career_coaching\api\users\create_user.php:57
+Stack trace:
+#0 D:\laragon\www\final_career_coaching\api\users\create_user.php(57): mysqli_stmt->execute()
+#1 {main}
+  thrown in D:\laragon\www\final_career_coaching\api\users\create_user.php on line 57
+[03-May-2025 08:22:36 UTC] Received JSON: 
+[03-May-2025 08:22:36 UTC] Received JSON: {"user_id":"20-18543","name":"Jennica Mae Ortiz","email":"jennicamae.ortiz@unc.edu.ph","password":"jennicamae","role":"Student","department":"","course":"","level":"","address":"","contact":"","gender":""}
+[03-May-2025 08:22:36 UTC] Received user_id: 20-18543
+[03-May-2025 08:22:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Field 'department' doesn't have a default value in D:\laragon\www\final_career_coaching\api\users\create_user.php:73
+Stack trace:
+#0 D:\laragon\www\final_career_coaching\api\users\create_user.php(73): mysqli_stmt->execute()
+#1 {main}
+  thrown in D:\laragon\www\final_career_coaching\api\users\create_user.php on line 73
+[03-May-2025 08:24:57 UTC] Received JSON: 
+[03-May-2025 08:24:57 UTC] Received JSON: {"user_id":"18-73567","name":"Jane Odiada","email":"jane.odiada@unc.edu.ph","password":"janeodiada","role":"Workforce Development Trainer"}
+[03-May-2025 08:24:57 UTC] Received user_id: 18-73567
+[03-May-2025 08:51:09 UTC] Received JSON: 
+[03-May-2025 08:52:12 UTC] Received JSON: 
+[03-May-2025 08:52:12 UTC] Received JSON: {"user_id":"17-73827","name":"Daisy Senosin","email":"daisy.senosin@unc.edu.ph","password":"daisy","role":"Workforce Development Trainer","address":"Naga City, Camarines Sur","contact":"09283757632"}
+[03-May-2025 08:52:13 UTC] Received user_id: 17-73827
+[03-May-2025 08:52:39 UTC] Received JSON: 
+[03-May-2025 08:52:39 UTC] Received JSON: {"user_id":"17-73827","name":"Daisy Senosin","email":"daisy.senosin@unc.edu.ph","password":"daisy","role":"Workforce Development Trainer","address":"Naga City, Camarines Sur","contact":"09283757632"}
+[03-May-2025 08:52:39 UTC] Received user_id: 17-73827
+[03-May-2025 08:55:09 UTC] Received JSON: 
+[03-May-2025 08:55:09 UTC] Received JSON: {"user_id":"17-28786","name":"Daisy Senosin","email":"daisy.senosin@unc.edu.ph","password":"daisy","role":"Workforce Development Trainer","address":"Naga City, Camarines Sur","contact":"09387857658"}
+[03-May-2025 08:55:10 UTC] Formatted user_id: 17-2878
+[03-May-2025 09:08:13 UTC] Received JSON: 
+[03-May-2025 09:08:13 UTC] Received JSON: {"user_id":"22-67365","name":"Daisy Senosin","email":"daisy.senosin@unc.edu.ph","password":"daisy","role":"Workforce Development Trainer","address":"Naga City, Camarines Sur","contact":"09458745625"}
+[03-May-2025 09:10:17 UTC] Received JSON: 
+[03-May-2025 09:10:17 UTC] Received JSON: {"user_id":"20-18543","name":"Jennica Mae Ortiz","email":"jennicamae.ortiz@unc.edu.ph","password":"jennicamae","role":"Student","department":"School of Computer and Information Sciences","course":"Bachelor of Science in Information Technology","year_level":"4th Year","address":"Calabanga, Camarines Sur","contact":"09348283451","gender":"Female"}
+[03-May-2025 09:11:51 UTC] Received JSON: 
+[03-May-2025 09:11:51 UTC] Received JSON: {"user_id":"21-68200","name":"Hendrixon Moldes","email":"hendrixon.moldes@unc.edu.ph","password":"hendrixon","role":"Student","department":"School of Computer and Information Sciences","course":"Bachelor of Science in Information Technology","year_level":"4th Year","address":"Pamplona, Camarines Sur","contact":"09427863587","gender":"Male"}
+[03-May-2025 09:13:13 UTC] Received JSON: 
+[03-May-2025 09:13:13 UTC] Received JSON: {"user_id":"21-68200","name":"Paul Argiel Rosete","email":"paulargiel.rosete@unc.edu.ph","password":"paulargiel","role":"Student","department":"School of Computer and Information Sciences","course":"Bachelor of Science in Information Technology","year_level":"4th Year","address":"Naga City, Camarines Sur","contact":"09873562386","gender":"Male"}
+[03-May-2025 09:13:26 UTC] Received JSON: 
+[03-May-2025 09:13:26 UTC] Received JSON: {"user_id":"21-68200","name":"Paul Argiel Rosete","email":"paulargiel.rosete@unc.edu.ph","password":"paulargiel","role":"Student","department":"School of Computer and Information Sciences","course":"Bachelor of Science in Information Technology","year_level":"4th Year","address":"Naga City, Camarines Sur","contact":"09873562386","gender":"Male"}
+[03-May-2025 09:13:38 UTC] Received JSON: 
+[03-May-2025 09:13:38 UTC] Received JSON: {"user_id":"21-68201","name":"Paul Argiel Rosete","email":"paulargiel.rosete@unc.edu.ph","password":"paulargiel","role":"Student","department":"School of Computer and Information Sciences","course":"Bachelor of Science in Information Technology","year_level":"4th Year","address":"Naga City, Camarines Sur","contact":"09873562386","gender":"Male"}
+[03-May-2025 09:38:04 UTC] Received JSON: 
+[03-May-2025 09:38:04 UTC] Received JSON: {"user_id":"21-68200","name":"Paul Argiel Rosete","email":"paulargiel.rosete@unc.edu.ph","password":"paulargiel","role":"Student","department":"School of Computer and Information Sciences","course":"Bachelor of Science in Information Technology","year_level":"4th Year","address":"Naga City, Camarines Sur","contact":"09382658628","gender":"Male"}
+[03-May-2025 09:39:46 UTC] Received JSON: 
+[03-May-2025 09:39:46 UTC] Received JSON: {"user_id":"21-68200","name":"Paul Argiel Rosete","email":"paulargiel.rosete@unc.edu.ph","password":"paulargiel","role":"Student","department":"School of Computer and Information Sciences","course":"Bachelor of Science in Information Technology","year_level":"4th Year","address":"Naga City, Camarines Sur","contact":"09832758293","gender":"Male"}
+[03-May-2025 09:41:31 UTC] Received JSON: 
+[03-May-2025 09:41:31 UTC] Received JSON: {"user_id":"21-68200","name":"Paul Argiel Rosete","email":"paulargiel.rosete@unc.edu.ph","password":"paulargiel","role":"Student","department":"School of Computer and Information Sciences","course":"Bachelor of Science in Information Technology","year_level":"4th Year","address":"Naga City, Camarines Sur","contact":"09213746582","gender":"Male"}
+[03-May-2025 10:12:01 UTC] Received JSON: 
+[03-May-2025 10:12:01 UTC] Received JSON: {"user_id":"21-63526","name":"Erika Mae ","email":"erikamae.dizon@unc.edu.ph","password":"erikamae","role":"Student","department":"School of Computer and Information Sciences","course":"Bachelor of Science in Information Technology","year_level":"4th Year","address":"Naga City, Camarines Sur","contact":"09386586238","gender":"Female"}
+[03-May-2025 10:14:31 UTC] Received JSON: 
+[03-May-2025 10:14:31 UTC] Received JSON: {"user_id":"21-26736","name":"Deneb Piffer Obelidor","email":"denebpiffer.obelidor@unc.edu.ph","password":"denebpiffer","role":"Student","department":"School of Business and Accountancy","course":"Bachelor of Science in Tourism Management","year_level":"2nd Year","address":"Naga City, Camarines Sur","contact":"09767234581","gender":"Female"}
+[03-May-2025 10:23:18 UTC] Received JSON: 
+[03-May-2025 10:23:18 UTC] Received JSON: {"user_id":"19-62537","name":"Jenalyn Tumaob","email":"jenalyn.tumaob@unc.edu.ph","password":"jenalyn","role":"Student","department":"School of Computer and Information Sciences","course":"Bachelor of Science in Information Technology","year_level":"3rd Year","address":"Naga City, Camarines Sur","contact":"09328759296","gender":"Female"}
+[03-May-2025 21:39:23 UTC] Received JSON: 
+[03-May-2025 21:39:23 UTC] Received JSON: {"user_id":"18-27364","name":"Leah Vie Modia","email":"leahvie.mondia@unc.edu.ph","password":"leahvie","role":"Student","department":"School of Social and Natural Sciences","course":"Bachelor of Arts in Psychology","year_level":"4th Year","address":"Naga City, Camarines Sur","contact":"09387547543","gender":"Female"}
+[03-May-2025 21:46:21 UTC] Received JSON: 
+[05-May-2025 01:27:35 UTC] Received JSON: 
+[05-May-2025 01:27:35 UTC] Received JSON: {"user_id":"19-42344","name":"Cassiopeia D. Obelidor","email":"cassiopeia.obelidor@unc.edu.ph","password":"cassieobelidor","role":"Student","department":"School of Computer and Information Sciences","course":"Bachelor of Science in Information Technology","year_level":"4th Year","address":"Naga City, Camarines Sur","contact":"09387486832","gender":"Female"}
+[05-May-2025 01:29:21 UTC] Received JSON: 
+[05-May-2025 01:29:21 UTC] Received JSON: {"user_id":"22-39847","name":"Hilary Joan R. Prilles","email":"hilaryjoan.prilles@unc.edu.ph","password":"hilaryjoan","role":"Workforce Development Trainer","address":"Naga City, Camarines Sur","contact":"09385846923"}
+[05-May-2025 01:30:15 UTC] Received JSON: 
+[05-May-2025 01:30:15 UTC] Received JSON: {"user_id":"18-27754","name":"Jo-ann Dancanlan","email":"joann.dancanlan@unc.edu.ph","password":"jo-anndancanlan","role":"Career Center","address":"Naga City, Camarines Sur","contact":"09234994369"}
+[05-May-2025 01:47:58 UTC] Received JSON: 
+[05-May-2025 01:47:58 UTC] Received JSON: {"user_id":"","name":"","email":"","password":"","role":"Career Center Director"}
+[05-May-2025 01:49:38 UTC] Received JSON: 
+[05-May-2025 01:49:38 UTC] Received JSON: {"user_id":"18-42978","name":"Jo-ann Dancanlan","email":"joann.dancanlan@unc.edu.ph","password":"joanndancanlan","role":"Career Center","address":"Naga City","contact":"09938798632"}
+[05-May-2025 12:34:47 UTC] Received JSON: 
+[05-May-2025 12:34:47 UTC] Received JSON: {"user_id":"19-42344"}
+[05-May-2025 12:40:29 UTC] Received JSON: 
+[05-May-2025 12:40:29 UTC] Received JSON: {"user_id":"19-42344"}
+[05-May-2025 12:46:29 UTC] Received JSON: 
+[05-May-2025 12:46:29 UTC] Received JSON: {"user_id":"19-42344"}
+[05-May-2025 13:00:45 UTC] Received JSON: 
+[05-May-2025 13:00:45 UTC] Received JSON: {"user_id":"18-27463","name":"Andrew Valeros","email":"andrew.valeros@unc.edu.ph","password":"andrew","role":"Workforce Development Trainer","address":"Naga City, Camarines Sur","contact":"09338784358"}
+[07-May-2025 01:09:11 UTC] Received JSON: 
+[07-May-2025 01:09:11 UTC] Received JSON: {"user_id":"18-92837","name":"Jane Odiada","email":"jane.odiada@unc.edu.ph","password":"janeodiada","role":"Workforce Development Trainer","address":"Naga City, Camarines Sur","contact":"09387258346"}
+[07-May-2025 03:02:17 UTC] Received JSON: 
+[07-May-2025 03:02:17 UTC] Received JSON: {"user_id":"19-42344"}
+[07-May-2025 03:02:23 UTC] Received JSON: 
+[07-May-2025 03:02:23 UTC] Received JSON: {"user_id":"19-42344"}
+[07-May-2025 09:07:58 UTC] Received JSON: 
+[07-May-2025 09:07:58 UTC] Received JSON: {"user_id":"19-42344"}
+[07-May-2025 09:09:05 UTC] Received JSON: 
+[07-May-2025 09:09:05 UTC] Received JSON: {"user_id":"19-42344"}
+[07-May-2025 09:11:55 UTC] Received JSON: 
+[07-May-2025 09:11:55 UTC] Received JSON: {"user_id":"19-42344"}
+[07-May-2025 10:11:47 UTC] Received JSON: 
+[07-May-2025 10:11:47 UTC] Received JSON: {"user_id":"20-18543","name":"Jennica Mae Ortiz","email":"jennicamae.ortiz@unc.edu.ph","password":"jennica","role":"Student","department":"School of Social and Natural Sciences","course":"Bachelor of Arts in Political Science","year_level":"4th Year","address":"Naga City, Camarines Sur","contact":"09239589734","gender":"Female"}
+[07-May-2025 10:12:16 UTC] Received JSON: 
+[07-May-2025 10:12:16 UTC] Received JSON: {"user_id":"20-18543"}
+[07-May-2025 10:14:20 UTC] Received JSON: 
+[07-May-2025 10:14:20 UTC] Received JSON: {"user_id":"21-68200","name":"Hendrixon Moldes","email":"hendrixon.moldes@unc.edu.ph","password":"hendrixon","role":"Student","department":"College of Engineering and Architecture","course":"Bachelor of Science in Civil Engineering","year_level":"3rd Year","address":"Pamplona, Camarines Sur","contact":"09382485678","gender":"Male"}
+[07-May-2025 10:15:53 UTC] Received JSON: 
+[07-May-2025 10:15:53 UTC] Received JSON: {"user_id":"18-28923","name":"Paul Argiel Rosete","email":"paulargiel.rosete@unc.edu.ph","password":"jndskngjkhe","role":"Student","department":"School of Business and Accountancy","course":"Bachelor of Science in Accountancy","year_level":"1st Year","address":"Naga City, Camarines Sur","contact":"09329759479","gender":"Male"}
+[07-May-2025 10:24:29 UTC] Received JSON: 
+[07-May-2025 10:24:29 UTC] Received JSON: {"user_id":"21-84359","name":"Erika Mae Dizon","email":"erikamae.dizon@unc,edu.ph","password":"erikamae","role":"Student","department":"School of Teacher Education","course":"Bachelor of Secondary Education","year_level":"3rd Year","address":"Naga City, Camarines Sur","contact":"09898957987","gender":"Female"}
+[07-May-2025 10:45:26 UTC] Received JSON: 
+[07-May-2025 10:45:26 UTC] Received JSON: {"user_id":"19-28739","name":"Deneb Piffer Obelidor","email":"denebpiffer.obelidor@unc.edu.ph","password":"denneb","role":"Student","department":"School of Business and Accountancy","course":"Bachelor of Science in Tourism Management","year_level":"4th Year","address":"Naga City Camarines Sur","contact":"09832798273","gender":"Female"}
+[07-May-2025 13:58:22 UTC] Received JSON: 
+[07-May-2025 13:58:22 UTC] Received JSON: {"user_id":"19-42344"}
+[07-May-2025 23:09:54 UTC] Received JSON: 
+[07-May-2025 23:09:54 UTC] Received JSON: {"user_id":"19-42344"}
+[08-May-2025 14:04:31 UTC] Received JSON: 
+[08-May-2025 14:04:31 UTC] Received JSON: {"user_id":"19-42344"}
+[10-May-2025 06:42:25 UTC] Received JSON: 
+[10-May-2025 06:42:25 UTC] Received JSON: {"user_id":"19-42344"}

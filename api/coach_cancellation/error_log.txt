@@ -1,0 +1,30 @@
+[12-Apr-2025 04:11:44 UTC] Looking for appointment_id: 12
+[12-Apr-2025 04:11:44 UTC] Query: SELECT ccr.*, c.coach_name 
+                  FROM coach_cancellation_requests ccr
+                  JOIN coaches c ON ccr.coach_id = c.id
+                  WHERE ccr.appointment_id = ?
+[12-Apr-2025 04:11:44 UTC] Found rows: 0
+[12-Apr-2025 04:11:44 UTC] Response: Array
+(
+    [success] => 1
+    [data] => Array
+        (
+        )
+
+)
+
+[12-Apr-2025 04:13:02 UTC] Looking for appointment_id: 12
+[12-Apr-2025 04:13:02 UTC] Query: SELECT ccr.*, c.coach_name 
+                  FROM coach_cancellation_requests ccr
+                  JOIN coaches c ON ccr.coach_id = c.id
+                  WHERE ccr.appointment_id = ?
+[12-Apr-2025 04:13:02 UTC] Found rows: 0
+[12-Apr-2025 04:13:02 UTC] Response: Array
+(
+    [success] => 1
+    [data] => Array
+        (
+        )
+
+)
+

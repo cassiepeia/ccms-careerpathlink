@@ -1,0 +1,2674 @@
+Received Data: Array
+(
+    [user_id] => 19-52453
+    [date_requested] => 2025-03-10
+    [time_requested] => 08:00 AM
+)
+
+Received Data: Array
+(
+    [user_id] => 19-52453
+    [date_requested] => 2025-03-10
+    [time_requested] => 08:00 AM
+)
+
+Received Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-03-13
+    [time_requested] => 01:00 PM
+)
+
+Received Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-03-13
+    [time_requested] => 01:00 PM
+)
+
+Received Data: Array
+(
+    [user_id] => 19-52453
+    [date_requested] => {"user_id":"19-52453","date_requested":"2025-03-14","time_requested":"02:00 PM","coach_id":"6"}
+    [time_requested] => application/json
+)
+
+Raw JSON Data: {"user_id":"19-52453","date_requested":"{\"user_id\":\"19-52453\",\"date_requested\":\"2025-03-14\",\"time_requested\":\"02:00 PM\",\"coach_id\":\"6\"}","time_requested":"19-52453"}
+Decoded Data: Array
+(
+    [user_id] => 19-52453
+    [date_requested] => {"user_id":"19-52453","date_requested":"2025-03-14","time_requested":"02:00 PM","coach_id":"6"}
+    [time_requested] => 19-52453
+)
+
+Raw JSON Data: {"user_id":"19-52453","date_requested":"2025-03-14","time_requested":"02:00 PM","coach_id":"6"}
+Decoded Data: Array
+(
+    [user_id] => 19-52453
+    [date_requested] => 2025-03-14
+    [time_requested] => 02:00 PM
+    [coach_id] => 6
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-03-11","time_requested":"01:00 PM","coach_id":"6"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-03-11
+    [time_requested] => 01:00 PM
+    [coach_id] => 6
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-03-11","time_requested":"01:30 PM","coach_id":"6"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-03-11
+    [time_requested] => 01:30 PM
+    [coach_id] => 6
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-03-11","time_requested":"01:30 PM","coach_id":"6"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-03-11
+    [time_requested] => 01:30 PM
+    [coach_id] => 6
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-03-12","time_requested":"02:00 PM","coach_id":"6"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-03-12
+    [time_requested] => 02:00 PM
+    [coach_id] => 6
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-03-25","time_requested":"02:00 PM","coach_id":"6"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-03-25
+    [time_requested] => 02:00 PM
+    [coach_id] => 6
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-03-25","time_requested":"01:00 PM","coach_id":"6"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-03-25
+    [time_requested] => 01:00 PM
+    [coach_id] => 6
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-03-25","time_requested":"02:00 PM","coach_id":"6"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-03-25
+    [time_requested] => 02:00 PM
+    [coach_id] => 6
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-03-25","time_requested":"02:00 PM","coach_id":"6"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-03-25
+    [time_requested] => 02:00 PM
+    [coach_id] => 6
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-03-25","time_requested":"01:00 PM","coach_id":"6"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-03-25
+    [time_requested] => 01:00 PM
+    [coach_id] => 6
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-03-25","time_requested":"08:00 AM","coach_id":"6"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-03-25
+    [time_requested] => 08:00 AM
+    [coach_id] => 6
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-03-25","time_requested":"08:00 AM","coach_id":"6"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-03-25
+    [time_requested] => 08:00 AM
+    [coach_id] => 6
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-04-07","time_requested":"09:00 AM","coach_id":"6"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-04-07
+    [time_requested] => 09:00 AM
+    [coach_id] => 6
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-04-07","time_requested":"09:00 AM","coach_id":"6"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-04-07
+    [time_requested] => 09:00 AM
+    [coach_id] => 6
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-03-26","time_requested":"01:00 PM","coach_id":"6"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-03-26
+    [time_requested] => 01:00 PM
+    [coach_id] => 6
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-03-26","time_requested":"08:00 AM","coach_id":"6"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-03-26
+    [time_requested] => 08:00 AM
+    [coach_id] => 6
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-03-31","time_requested":"09:00 AM","coach_id":"6"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-03-31
+    [time_requested] => 09:00 AM
+    [coach_id] => 6
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-03-26","time_requested":"03:30 PM","coach_id":"6"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-03-26
+    [time_requested] => 03:30 PM
+    [coach_id] => 6
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-03-25","time_requested":"08:00 AM","coach_id":"6"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-03-25
+    [time_requested] => 08:00 AM
+    [coach_id] => 6
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-03-25","time_requested":"08:00 AM","coach_id":"6"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-03-25
+    [time_requested] => 08:00 AM
+    [coach_id] => 6
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-03-26","time_requested":"01:00 PM","coach_id":"6"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-03-26
+    [time_requested] => 01:00 PM
+    [coach_id] => 6
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-03-26","time_requested":"10:00 AM","coach_id":"6"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-03-26
+    [time_requested] => 10:00 AM
+    [coach_id] => 6
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-03-26","time_requested":"08:00 AM","coach_id":"6","time_slot_id":"6","status":"pending"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-03-26
+    [time_requested] => 08:00 AM
+    [coach_id] => 6
+    [time_slot_id] => 6
+    [status] => pending
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-03-26","time_requested":"08:00 AM","coach_id":"6"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-03-26
+    [time_requested] => 08:00 AM
+    [coach_id] => 6
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-04-04","time_requested":"10:30 AM","coach_id":"6"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-04-04
+    [time_requested] => 10:30 AM
+    [coach_id] => 6
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-03-26","time_requested":"03:00 PM","coach_id":"6"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-03-26
+    [time_requested] => 03:00 PM
+    [coach_id] => 6
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-03-26","time_requested":"03:00 PM","coach_id":"6"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-03-26
+    [time_requested] => 03:00 PM
+    [coach_id] => 6
+)
+
+Raw JSON Data: {"user_id":"19-52453","date_requested":"2025-03-28","time_requested":"04:30 PM","coach_id":"6"}
+Decoded Data: Array
+(
+    [user_id] => 19-52453
+    [date_requested] => 2025-03-28
+    [time_requested] => 04:30 PM
+    [coach_id] => 6
+)
+
+Raw JSON Data: {"user_id":"19-52453","date_requested":"2025-03-31","time_requested":"10:30 AM","coach_id":"6"}
+Decoded Data: Array
+(
+    [user_id] => 19-52453
+    [date_requested] => 2025-03-31
+    [time_requested] => 10:30 AM
+    [coach_id] => 6
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-03-26","time_requested":"03:30 PM","coach_id":"6"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-03-26
+    [time_requested] => 03:30 PM
+    [coach_id] => 6
+)
+
+Raw JSON Data: {"user_id":"19-35498","date_requested":"2025-04-01","time_requested":"09:00 AM","coach_id":"6"}
+Decoded Data: Array
+(
+    [user_id] => 19-35498
+    [date_requested] => 2025-04-01
+    [time_requested] => 09:00 AM
+    [coach_id] => 6
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-04-04","time_requested":"11:00 AM","coach_id":"6"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-04-04
+    [time_requested] => 11:00 AM
+    [coach_id] => 6
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-04-03","time_requested":"01:00 PM","coach_id":"6"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-04-03
+    [time_requested] => 01:00 PM
+    [coach_id] => 6
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-04-03","time_requested":"01:00 PM","coach_id":"6"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-04-03
+    [time_requested] => 01:00 PM
+    [coach_id] => 6
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-04-04","time_requested":"11:00 AM","coach_id":"6"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-04-04
+    [time_requested] => 11:00 AM
+    [coach_id] => 6
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-04-04","time_requested":"11:00 AM","coach_id":"6"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-04-04
+    [time_requested] => 11:00 AM
+    [coach_id] => 6
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-04-04","time_requested":"11:00 AM","coach_id":"6"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-04-04
+    [time_requested] => 11:00 AM
+    [coach_id] => 6
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-04-10","time_requested":"01:00 PM","coach_id":"6"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-04-10
+    [time_requested] => 01:00 PM
+    [coach_id] => 6
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-04-10","time_requested":"01:00 PM","coach_id":"6"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-04-10
+    [time_requested] => 01:00 PM
+    [coach_id] => 6
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-04-09","time_requested":"03:30 PM","coach_id":"6"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-04-09
+    [time_requested] => 03:30 PM
+    [coach_id] => 6
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-04-09","time_requested":"03:30 PM","coach_id":"6"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-04-09
+    [time_requested] => 03:30 PM
+    [coach_id] => 6
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-04-01","time_requested":"09:00 AM","coach_id":"6"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-04-01
+    [time_requested] => 09:00 AM
+    [coach_id] => 6
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-04-01","time_requested":"09:00 AM","coach_id":"6"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-04-01
+    [time_requested] => 09:00 AM
+    [coach_id] => 6
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-04-04","time_requested":"11:00 AM","coach_id":"6"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-04-04
+    [time_requested] => 11:00 AM
+    [coach_id] => 6
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-04-04","time_requested":"11:00 AM","coach_id":"6"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-04-04
+    [time_requested] => 11:00 AM
+    [coach_id] => 6
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-04-01","time_requested":"10:30 AM","coach_id":"6"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-04-01
+    [time_requested] => 10:30 AM
+    [coach_id] => 6
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-04-01","time_requested":"10:30 AM","coach_id":"6"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-04-01
+    [time_requested] => 10:30 AM
+    [coach_id] => 6
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-04-01","time_requested":"10:30 AM","coach_id":"6"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-04-01
+    [time_requested] => 10:30 AM
+    [coach_id] => 6
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-04-09","time_requested":"02:30 PM","coach_id":"6"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-04-09
+    [time_requested] => 02:30 PM
+    [coach_id] => 6
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-04-03","time_requested":"01:30 PM","coach_id":"6"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-04-03
+    [time_requested] => 01:30 PM
+    [coach_id] => 6
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-04-03","time_requested":"01:30 PM","coach_id":"6"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-04-03
+    [time_requested] => 01:30 PM
+    [coach_id] => 6
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-04-04","time_requested":"10:00 AM","coach_id":"6"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-04-04
+    [time_requested] => 10:00 AM
+    [coach_id] => 6
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-04-04","time_requested":"10:00 AM","coach_id":"6"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-04-04
+    [time_requested] => 10:00 AM
+    [coach_id] => 6
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-04-11","time_requested":"08:00 AM","coach_id":"6"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-04-11
+    [time_requested] => 08:00 AM
+    [coach_id] => 6
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-04-11","time_requested":"08:00 AM","coach_id":"6"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-04-11
+    [time_requested] => 08:00 AM
+    [coach_id] => 6
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-04-09","time_requested":"01:00 PM","coach_id":"1"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-04-09
+    [time_requested] => 01:00 PM
+    [coach_id] => 1
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-04-10","time_requested":"08:00 AM","coach_id":"1"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-04-10
+    [time_requested] => 08:00 AM
+    [coach_id] => 1
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-04-08","time_requested":"10:00 AM","coach_id":"1"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-04-08
+    [time_requested] => 10:00 AM
+    [coach_id] => 1
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-04-04","time_requested":"01:00 PM","coach_id":"1"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-04-04
+    [time_requested] => 01:00 PM
+    [coach_id] => 1
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-04-10","time_requested":"08:00 AM","coach_id":"1"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-04-10
+    [time_requested] => 08:00 AM
+    [coach_id] => 1
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-04-08","time_requested":"01:00 PM","coach_id":"1"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-04-08
+    [time_requested] => 01:00 PM
+    [coach_id] => 1
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-04-10","time_requested":"04:00 PM","coach_id":"1"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-04-10
+    [time_requested] => 04:00 PM
+    [coach_id] => 1
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-04-07","time_requested":"08:00 AM","coach_id":"1"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-04-07
+    [time_requested] => 08:00 AM
+    [coach_id] => 1
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-04-09","time_requested":"03:00 PM","coach_id":"1"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-04-09
+    [time_requested] => 03:00 PM
+    [coach_id] => 1
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-04-08","time_requested":"02:00 PM","coach_id":"1"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-04-08
+    [time_requested] => 02:00 PM
+    [coach_id] => 1
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-04-10","time_requested":"09:00 AM","coach_id":"1"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-04-10
+    [time_requested] => 09:00 AM
+    [coach_id] => 1
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-04-10","time_requested":"10:00 AM","coach_id":"1"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-04-10
+    [time_requested] => 10:00 AM
+    [coach_id] => 1
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-04-10","time_requested":"10:00 AM","coach_id":"1"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-04-10
+    [time_requested] => 10:00 AM
+    [coach_id] => 1
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-04-10","time_requested":"10:00 AM","coach_id":"1"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-04-10
+    [time_requested] => 10:00 AM
+    [coach_id] => 1
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-19","time_requested":"08:00 AM","coach_id":"1"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-19
+    [time_requested] => 08:00 AM
+    [coach_id] => 1
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-20","time_requested":"11:00 AM","coach_id":"1"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-20
+    [time_requested] => 11:00 AM
+    [coach_id] => 1
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-15","time_requested":"01:00 PM","coach_id":"1"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-15
+    [time_requested] => 01:00 PM
+    [coach_id] => 1
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-13","time_requested":"10:00 AM","coach_id":"1"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-13
+    [time_requested] => 10:00 AM
+    [coach_id] => 1
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-21","time_requested":"10:00 AM","coach_id":"1"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-21
+    [time_requested] => 10:00 AM
+    [coach_id] => 1
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-21","time_requested":"10:00 AM","coach_id":"1"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-21
+    [time_requested] => 10:00 AM
+    [coach_id] => 1
+)
+
+Raw JSON Data: {"user_id":"19-52453","date_requested":"2025-05-14","time_requested":"10:00 AM","coach_id":"1"}
+Decoded Data: Array
+(
+    [user_id] => 19-52453
+    [date_requested] => 2025-05-14
+    [time_requested] => 10:00 AM
+    [coach_id] => 1
+)
+
+Raw JSON Data: {"user_id":"19-52453","date_requested":"2025-05-14","time_requested":"10:00 AM","coach_id":"1"}
+Decoded Data: Array
+(
+    [user_id] => 19-52453
+    [date_requested] => 2025-05-14
+    [time_requested] => 10:00 AM
+    [coach_id] => 1
+)
+
+Raw JSON Data: {"user_id":"19-52453","date_requested":"2025-05-12","time_requested":"09:00 AM","coach_id":"1"}
+Decoded Data: Array
+(
+    [user_id] => 19-52453
+    [date_requested] => 2025-05-12
+    [time_requested] => 09:00 AM
+    [coach_id] => 1
+)
+
+Raw JSON Data: {"user_id":"19-52453","date_requested":"2025-05-12","time_requested":"08:30 AM","coach_id":"1"}
+Decoded Data: Array
+(
+    [user_id] => 19-52453
+    [date_requested] => 2025-05-12
+    [time_requested] => 08:30 AM
+    [coach_id] => 1
+)
+
+Raw JSON Data: {"user_id":"19-35498","date_requested":"2025-04-17","time_requested":"10:00 AM","coach_id":"1"}
+Decoded Data: Array
+(
+    [user_id] => 19-35498
+    [date_requested] => 2025-04-17
+    [time_requested] => 10:00 AM
+    [coach_id] => 1
+)
+
+Raw JSON Data: {"user_id":"19-35498","date_requested":"2025-04-17","time_requested":"10:00 AM","coach_id":"1"}
+Decoded Data: Array
+(
+    [user_id] => 19-35498
+    [date_requested] => 2025-04-17
+    [time_requested] => 10:00 AM
+    [coach_id] => 1
+)
+
+Raw JSON Data: {"user_id":"19-35498","date_requested":"2025-04-25","time_requested":"09:30 AM","coach_id":"1"}
+Decoded Data: Array
+(
+    [user_id] => 19-35498
+    [date_requested] => 2025-04-25
+    [time_requested] => 09:30 AM
+    [coach_id] => 1
+)
+
+Raw JSON Data: {"user_id":"19-35498","date_requested":"2025-04-30","time_requested":"09:00 AM","coach_id":"1"}
+Decoded Data: Array
+(
+    [user_id] => 19-35498
+    [date_requested] => 2025-04-30
+    [time_requested] => 09:00 AM
+    [coach_id] => 1
+)
+
+Raw JSON Data: {"user_id":"19-35498","date_requested":"2025-04-14","time_requested":"07:30 AM","coach_id":"1"}
+Decoded Data: Array
+(
+    [user_id] => 19-35498
+    [date_requested] => 2025-04-14
+    [time_requested] => 07:30 AM
+    [coach_id] => 1
+)
+
+Raw JSON Data: {"user_id":"19-35498","date_requested":"2025-04-14","time_requested":"07:30 AM","coach_id":"1"}
+Decoded Data: Array
+(
+    [user_id] => 19-35498
+    [date_requested] => 2025-04-14
+    [time_requested] => 07:30 AM
+    [coach_id] => 1
+)
+
+Raw JSON Data: {"user_id":"19-52453","date_requested":"2025-04-25","time_requested":"09:00 AM","coach_id":"1"}
+Decoded Data: Array
+(
+    [user_id] => 19-52453
+    [date_requested] => 2025-04-25
+    [time_requested] => 09:00 AM
+    [coach_id] => 1
+)
+
+Raw JSON Data: {"user_id":"19-52453","date_requested":"2025-04-25","time_requested":"09:00 AM","coach_id":"1"}
+Decoded Data: Array
+(
+    [user_id] => 19-52453
+    [date_requested] => 2025-04-25
+    [time_requested] => 09:00 AM
+    [coach_id] => 1
+)
+
+Raw JSON Data: {"user_id":"19-52453","date_requested":"2025-04-25","time_requested":"09:00 AM","coach_id":"1"}
+Decoded Data: Array
+(
+    [user_id] => 19-52453
+    [date_requested] => 2025-04-25
+    [time_requested] => 09:00 AM
+    [coach_id] => 1
+)
+
+Raw JSON Data: {"user_id":"19-52453","date_requested":"2025-05-01","time_requested":"09:00 AM","coach_id":"1"}
+Decoded Data: Array
+(
+    [user_id] => 19-52453
+    [date_requested] => 2025-05-01
+    [time_requested] => 09:00 AM
+    [coach_id] => 1
+)
+
+Raw JSON Data: {"user_id":"19-52453","date_requested":"2025-04-28","time_requested":"08:00 AM","coach_id":"1"}
+Decoded Data: Array
+(
+    [user_id] => 19-52453
+    [date_requested] => 2025-04-28
+    [time_requested] => 08:00 AM
+    [coach_id] => 1
+)
+
+Raw JSON Data: {"user_id":"19-52453","date_requested":"2025-04-24","time_requested":"10:00 AM","coach_id":"1"}
+Decoded Data: Array
+(
+    [user_id] => 19-52453
+    [date_requested] => 2025-04-24
+    [time_requested] => 10:00 AM
+    [coach_id] => 1
+)
+
+Raw JSON Data: {"user_id":"19-52453","date_requested":"2025-04-21","time_requested":"01:30 AM","coach_id":"1"}
+Decoded Data: Array
+(
+    [user_id] => 19-52453
+    [date_requested] => 2025-04-21
+    [time_requested] => 01:30 AM
+    [coach_id] => 1
+)
+
+Raw JSON Data: {"user_id":"19-52453","date_requested":"2025-05-02","time_requested":"08:00 AM","coach_id":"1"}
+Decoded Data: Array
+(
+    [user_id] => 19-52453
+    [date_requested] => 2025-05-02
+    [time_requested] => 08:00 AM
+    [coach_id] => 1
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-04-24","time_requested":"10:30 AM","coach_id":"1"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-04-24
+    [time_requested] => 10:30 AM
+    [coach_id] => 1
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-04-22","time_requested":"10:00 AM","coach_id":"1"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-04-22
+    [time_requested] => 10:00 AM
+    [coach_id] => 1
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-04-21","time_requested":"09:00 AM","coach_id":"1"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-04-21
+    [time_requested] => 09:00 AM
+    [coach_id] => 1
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-04-23","time_requested":"09:00 AM","coach_id":"1"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-04-23
+    [time_requested] => 09:00 AM
+    [coach_id] => 1
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-04-23","time_requested":"09:00 AM","coach_id":"1"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-04-23
+    [time_requested] => 09:00 AM
+    [coach_id] => 1
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-22","time_requested":"09:00 AM","coach_id":"1"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-22
+    [time_requested] => 09:00 AM
+    [coach_id] => 1
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-04-18","time_requested":"11:00 AM","coach_id":"1","service_type":"Career Coaching"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-04-18
+    [time_requested] => 11:00 AM
+    [coach_id] => 1
+    [service_type] => Career Coaching
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-04-17","time_requested":"08:00 AM","coach_id":"1","service_type":"Career Coaching"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-04-17
+    [time_requested] => 08:00 AM
+    [coach_id] => 1
+    [service_type] => Career Coaching
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-04-17","time_requested":"08:00 AM","coach_id":"1","service_type":"Career Coaching"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-04-17
+    [time_requested] => 08:00 AM
+    [coach_id] => 1
+    [service_type] => Career Coaching
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-04-18","time_requested":"10:00 AM","coach_id":"1","service_type":"Mock Interview"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-04-18
+    [time_requested] => 10:00 AM
+    [coach_id] => 1
+    [service_type] => Mock Interview
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-04-24","time_requested":"08:30 AM","coach_id":"1","service_type":"Mock Interview"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-04-24
+    [time_requested] => 08:30 AM
+    [coach_id] => 1
+    [service_type] => Mock Interview
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-04-25","time_requested":"10:00 AM","coach_id":"1","service_type":"CV Review"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-04-25
+    [time_requested] => 10:00 AM
+    [coach_id] => 1
+    [service_type] => CV Review
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-04-25","time_requested":"09:30 AM","coach_id":"1","service_type":"CV Review"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-04-25
+    [time_requested] => 09:30 AM
+    [coach_id] => 1
+    [service_type] => CV Review
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-04-24","time_requested":"10:00 AM","coach_id":"1","service_type":"Career Coaching"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-04-24
+    [time_requested] => 10:00 AM
+    [coach_id] => 1
+    [service_type] => Career Coaching
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-04-29","time_requested":"08:00 AM","coach_id":"1","service_type":"Mock Interview"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-04-29
+    [time_requested] => 08:00 AM
+    [coach_id] => 1
+    [service_type] => Mock Interview
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-04-23","time_requested":"10:00 AM","coach_id":"1","service_type":"Mock Interview"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-04-23
+    [time_requested] => 10:00 AM
+    [coach_id] => 1
+    [service_type] => Mock Interview
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-04-23","time_requested":"10:00 AM","coach_id":"1","service_type":"Mock Interview"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-04-23
+    [time_requested] => 10:00 AM
+    [coach_id] => 1
+    [service_type] => Mock Interview
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-04-30","time_requested":"07:00 AM","coach_id":"1","service_type":"CV Review"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-04-30
+    [time_requested] => 07:00 AM
+    [coach_id] => 1
+    [service_type] => CV Review
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-04-30","time_requested":"07:00 AM","coach_id":"1","service_type":"CV Review"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-04-30
+    [time_requested] => 07:00 AM
+    [coach_id] => 1
+    [service_type] => CV Review
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-04-28","time_requested":"10:00 AM","coach_id":"1","service_type":"Mock Interview"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-04-28
+    [time_requested] => 10:00 AM
+    [coach_id] => 1
+    [service_type] => Mock Interview
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-12","time_requested":"10:30 AM","coach_id":"1","service_type":"Mock Interview"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-12
+    [time_requested] => 10:30 AM
+    [coach_id] => 1
+    [service_type] => Mock Interview
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-06","time_requested":"12:30 PM","coach_id":"1","service_type":"CV Review"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-06
+    [time_requested] => 12:30 PM
+    [coach_id] => 1
+    [service_type] => CV Review
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-08","time_requested":"08:00 AM","coach_id":"1","service_type":"Mock Interview"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-08
+    [time_requested] => 08:00 AM
+    [coach_id] => 1
+    [service_type] => Mock Interview
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-08","time_requested":"08:00 AM","coach_id":"1","service_type":"Mock Interview"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-08
+    [time_requested] => 08:00 AM
+    [coach_id] => 1
+    [service_type] => Mock Interview
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-08","time_requested":"08:00 AM","coach_id":"1","service_type":"Mock Interview"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-08
+    [time_requested] => 08:00 AM
+    [coach_id] => 1
+    [service_type] => Mock Interview
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-08","time_requested":"08:00 AM","coach_id":"1","service_type":"Mock Interview"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-08
+    [time_requested] => 08:00 AM
+    [coach_id] => 1
+    [service_type] => Mock Interview
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-08","time_requested":"08:00 AM","coach_id":"1","service_type":"Mock Interview"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-08
+    [time_requested] => 08:00 AM
+    [coach_id] => 1
+    [service_type] => Mock Interview
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-08","time_requested":"08:00 AM","coach_id":"1","service_type":"Mock Interview"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-08
+    [time_requested] => 08:00 AM
+    [coach_id] => 1
+    [service_type] => Mock Interview
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-08","time_requested":"08:00 AM","coach_id":"1","service_type":"Mock Interview"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-08
+    [time_requested] => 08:00 AM
+    [coach_id] => 1
+    [service_type] => Mock Interview
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-15","time_requested":"12:30 PM","coach_id":"1","service_type":"CV Review"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-15
+    [time_requested] => 12:30 PM
+    [coach_id] => 1
+    [service_type] => CV Review
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-20","time_requested":"11:00 AM","coach_id":"1","service_type":"CV Review"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-20
+    [time_requested] => 11:00 AM
+    [coach_id] => 1
+    [service_type] => CV Review
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-20","time_requested":"11:00 AM","coach_id":"1","service_type":"CV Review"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-20
+    [time_requested] => 11:00 AM
+    [coach_id] => 1
+    [service_type] => CV Review
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-16","time_requested":"10:00 AM","coach_id":"1","service_type":"Career Coaching"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-16
+    [time_requested] => 10:00 AM
+    [coach_id] => 1
+    [service_type] => Career Coaching
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-16","time_requested":"09:30 PM","coach_id":"1","service_type":"Mock Interview"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-16
+    [time_requested] => 09:30 PM
+    [coach_id] => 1
+    [service_type] => Mock Interview
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-16","time_requested":"09:00 AM","coach_id":"1","service_type":"Mock Interview"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-16
+    [time_requested] => 09:00 AM
+    [coach_id] => 1
+    [service_type] => Mock Interview
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-19","time_requested":"10:30 AM","coach_id":"1","service_type":"Career Coaching"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-19
+    [time_requested] => 10:30 AM
+    [coach_id] => 1
+    [service_type] => Career Coaching
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-20","time_requested":"11:30 PM","coach_id":"1","service_type":"CV Review"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-20
+    [time_requested] => 11:30 PM
+    [coach_id] => 1
+    [service_type] => CV Review
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-19","time_requested":"09:00 PM","coach_id":"1","service_type":"Career Coaching"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-19
+    [time_requested] => 09:00 PM
+    [coach_id] => 1
+    [service_type] => Career Coaching
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-07","time_requested":"01:30 AM","coach_id":"1","service_type":"Mock Interview"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-07
+    [time_requested] => 01:30 AM
+    [coach_id] => 1
+    [service_type] => Mock Interview
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-15","time_requested":"10:00 AM","coach_id":"1","service_type":"CV Review"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-15
+    [time_requested] => 10:00 AM
+    [coach_id] => 1
+    [service_type] => CV Review
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-14","time_requested":"11:30 AM","coach_id":"1","service_type":"Career Coaching"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-14
+    [time_requested] => 11:30 AM
+    [coach_id] => 1
+    [service_type] => Career Coaching
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-14","time_requested":"11:00 PM","coach_id":"1","service_type":"CV Review"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-14
+    [time_requested] => 11:00 PM
+    [coach_id] => 1
+    [service_type] => CV Review
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-19","time_requested":"08:30 PM","coach_id":"1","service_type":"CV Review"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-19
+    [time_requested] => 08:30 PM
+    [coach_id] => 1
+    [service_type] => CV Review
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-19","time_requested":"08:30 PM","coach_id":"1","service_type":"CV Review"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-19
+    [time_requested] => 08:30 PM
+    [coach_id] => 1
+    [service_type] => CV Review
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-19","time_requested":"08:30 PM","coach_id":"1","service_type":"Mock Interview"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-19
+    [time_requested] => 08:30 PM
+    [coach_id] => 1
+    [service_type] => Mock Interview
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-19","time_requested":"08:30 PM","service_type":"CV Review"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-19
+    [time_requested] => 08:30 PM
+    [service_type] => CV Review
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-19","time_requested":"08:30 PM","service_type":"CV Review"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-19
+    [time_requested] => 08:30 PM
+    [service_type] => CV Review
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-14","time_requested":"10:30 AM","coach_id":"1","service_type":"Mock Interview"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-14
+    [time_requested] => 10:30 AM
+    [coach_id] => 1
+    [service_type] => Mock Interview
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-21","time_requested":"09:00 AM","coach_id":"1","service_type":"CV Review"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-21
+    [time_requested] => 09:00 AM
+    [coach_id] => 1
+    [service_type] => CV Review
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-23","time_requested":"02:30 PM","coach_id":"1","service_type":"CV Review"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-23
+    [time_requested] => 02:30 PM
+    [coach_id] => 1
+    [service_type] => CV Review
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-23","time_requested":"01:30 PM","coach_id":"1","service_type":"Career Coaching"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-23
+    [time_requested] => 01:30 PM
+    [coach_id] => 1
+    [service_type] => Career Coaching
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-23","time_requested":"03:00 PM","coach_id":"1","service_type":"Mock Interview"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-23
+    [time_requested] => 03:00 PM
+    [coach_id] => 1
+    [service_type] => Mock Interview
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-22","time_requested":"09:30 PM","coach_id":"1","service_type":"CV Review"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-22
+    [time_requested] => 09:30 PM
+    [coach_id] => 1
+    [service_type] => CV Review
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-19","time_requested":"08:30 PM","coach_id":"1","service_type":"Mock Interview"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-19
+    [time_requested] => 08:30 PM
+    [coach_id] => 1
+    [service_type] => Mock Interview
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-06","time_requested":"08:00 AM","coach_id":"1","service_type":"Career Coaching"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-06
+    [time_requested] => 08:00 AM
+    [coach_id] => 1
+    [service_type] => Career Coaching
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-08","time_requested":"10:00 AM","coach_id":"1","service_type":"Career Coaching"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-08
+    [time_requested] => 10:00 AM
+    [coach_id] => 1
+    [service_type] => Career Coaching
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-12","time_requested":"10:00 AM","coach_id":"1","service_type":"Mock Interview"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-12
+    [time_requested] => 10:00 AM
+    [coach_id] => 1
+    [service_type] => Mock Interview
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-09","time_requested":"08:30 AM","coach_id":"1","service_type":"Mock Interview"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-09
+    [time_requested] => 08:30 AM
+    [coach_id] => 1
+    [service_type] => Mock Interview
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-05","time_requested":"10:30 AM","coach_id":"1","service_type":"CV Review"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-05
+    [time_requested] => 10:30 AM
+    [coach_id] => 1
+    [service_type] => CV Review
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-09","time_requested":"09:00 AM","coach_id":"1","service_type":"CV Review"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-09
+    [time_requested] => 09:00 AM
+    [coach_id] => 1
+    [service_type] => CV Review
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-05","time_requested":"12:30 AM","coach_id":"1","service_type":"Career Coaching"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-05
+    [time_requested] => 12:30 AM
+    [coach_id] => 1
+    [service_type] => Career Coaching
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-08","time_requested":"09:30 AM","coach_id":"1","service_type":"Mock Interview"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-08
+    [time_requested] => 09:30 AM
+    [coach_id] => 1
+    [service_type] => Mock Interview
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-06","time_requested":"09:00 AM","coach_id":"1","service_type":"CV Review"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-06
+    [time_requested] => 09:00 AM
+    [coach_id] => 1
+    [service_type] => CV Review
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-08","time_requested":"11:00 AM","coach_id":"1","service_type":"Career Coaching"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-08
+    [time_requested] => 11:00 AM
+    [coach_id] => 1
+    [service_type] => Career Coaching
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-14","time_requested":"10:30 AM","coach_id":"1","service_type":"Mock Interview"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-14
+    [time_requested] => 10:30 AM
+    [coach_id] => 1
+    [service_type] => Mock Interview
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-12","time_requested":"11:00 AM","coach_id":"1","service_type":"CV Review"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-12
+    [time_requested] => 11:00 AM
+    [coach_id] => 1
+    [service_type] => CV Review
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-09","time_requested":"09:00 AM","coach_id":"1","service_type":"Career Coaching"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-09
+    [time_requested] => 09:00 AM
+    [coach_id] => 1
+    [service_type] => Career Coaching
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-09","time_requested":"09:30 AM","coach_id":"1","service_type":"Mock Interview"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-09
+    [time_requested] => 09:30 AM
+    [coach_id] => 1
+    [service_type] => Mock Interview
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-14","time_requested":"10:00 AM","coach_id":"1","service_type":"CV Review"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-14
+    [time_requested] => 10:00 AM
+    [coach_id] => 1
+    [service_type] => CV Review
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-08","time_requested":"10:30 AM","coach_id":"1","service_type":"Career Coaching"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-08
+    [time_requested] => 10:30 AM
+    [coach_id] => 1
+    [service_type] => Career Coaching
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-14","time_requested":"09:30 AM","coach_id":"1","service_type":"Mock Interview"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-14
+    [time_requested] => 09:30 AM
+    [coach_id] => 1
+    [service_type] => Mock Interview
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-13","time_requested":"11:00 AM","coach_id":"1","service_type":"CV Review"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-13
+    [time_requested] => 11:00 AM
+    [coach_id] => 1
+    [service_type] => CV Review
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-14","time_requested":"09:30 AM","coach_id":"1","service_type":"Mock Interview"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-14
+    [time_requested] => 09:30 AM
+    [coach_id] => 1
+    [service_type] => Mock Interview
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-12","time_requested":"11:30 AM","coach_id":"1","service_type":"CV Review"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-12
+    [time_requested] => 11:30 AM
+    [coach_id] => 1
+    [service_type] => CV Review
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-07","time_requested":"12:00 PM","coach_id":"1","service_type":"CV Review"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-07
+    [time_requested] => 12:00 PM
+    [coach_id] => 1
+    [service_type] => CV Review
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-14","time_requested":"10:30 AM","coach_id":"1","service_type":"Career Coaching"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-14
+    [time_requested] => 10:30 AM
+    [coach_id] => 1
+    [service_type] => Career Coaching
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-06","time_requested":"10:30 AM","coach_id":"1","service_type":"Mock Interview"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-06
+    [time_requested] => 10:30 AM
+    [coach_id] => 1
+    [service_type] => Mock Interview
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-09","time_requested":"09:30 AM","coach_id":"1","service_type":"CV Review"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-09
+    [time_requested] => 09:30 AM
+    [coach_id] => 1
+    [service_type] => CV Review
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-12","time_requested":"11:30 AM","coach_id":"1","service_type":"Career Coaching"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-12
+    [time_requested] => 11:30 AM
+    [coach_id] => 1
+    [service_type] => Career Coaching
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-06","time_requested":"11:00 AM","coach_id":"1","service_type":"Mock Interview"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-06
+    [time_requested] => 11:00 AM
+    [coach_id] => 1
+    [service_type] => Mock Interview
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-09","time_requested":"09:00 AM","coach_id":"1","service_type":"CV Review"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-09
+    [time_requested] => 09:00 AM
+    [coach_id] => 1
+    [service_type] => CV Review
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-07","time_requested":"12:30 PM","coach_id":"1","service_type":"CV Review"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-07
+    [time_requested] => 12:30 PM
+    [coach_id] => 1
+    [service_type] => CV Review
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-13","time_requested":"11:00 AM","coach_id":"1","service_type":"Mock Interview"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-13
+    [time_requested] => 11:00 AM
+    [coach_id] => 1
+    [service_type] => Mock Interview
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-15","time_requested":"09:00 AM","coach_id":"1","service_type":"CV Review"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-15
+    [time_requested] => 09:00 AM
+    [coach_id] => 1
+    [service_type] => CV Review
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-12","time_requested":"11:00 AM","coach_id":"1","service_type":"Mock Interview"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-12
+    [time_requested] => 11:00 AM
+    [coach_id] => 1
+    [service_type] => Mock Interview
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-13","time_requested":"10:30 AM","coach_id":"1","service_type":"Career Coaching"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-13
+    [time_requested] => 10:30 AM
+    [coach_id] => 1
+    [service_type] => Career Coaching
+)
+
+Raw JSON Data: {"user_id":"21-68200","date_requested":"2025-05-15","time_requested":"10:00 AM","coach_id":"1","service_type":"Career Coaching"}
+Decoded Data: Array
+(
+    [user_id] => 21-68200
+    [date_requested] => 2025-05-15
+    [time_requested] => 10:00 AM
+    [coach_id] => 1
+    [service_type] => Career Coaching
+)
+
+Raw JSON Data: {"user_id":"21-68200","date_requested":"2025-05-16","time_requested":"08:30 AM","coach_id":"1","service_type":"CV Review"}
+Decoded Data: Array
+(
+    [user_id] => 21-68200
+    [date_requested] => 2025-05-16
+    [time_requested] => 08:30 AM
+    [coach_id] => 1
+    [service_type] => CV Review
+)
+
+Raw JSON Data: {"user_id":"21-68200","date_requested":"2025-05-14","time_requested":"10:00 AM","coach_id":"1","service_type":"Career Coaching"}
+Decoded Data: Array
+(
+    [user_id] => 21-68200
+    [date_requested] => 2025-05-14
+    [time_requested] => 10:00 AM
+    [coach_id] => 1
+    [service_type] => Career Coaching
+)
+
+Raw JSON Data: {"user_id":"21-68200","date_requested":"2025-05-22","time_requested":"10:00 AM","coach_id":"1","service_type":"Career Coaching"}
+Decoded Data: Array
+(
+    [user_id] => 21-68200
+    [date_requested] => 2025-05-22
+    [time_requested] => 10:00 AM
+    [coach_id] => 1
+    [service_type] => Career Coaching
+)
+
+Raw JSON Data: {"user_id":"21-68200","date_requested":"2025-05-20","time_requested":"11:30 AM","coach_id":"1","service_type":"Mock Interview"}
+Decoded Data: Array
+(
+    [user_id] => 21-68200
+    [date_requested] => 2025-05-20
+    [time_requested] => 11:30 AM
+    [coach_id] => 1
+    [service_type] => Mock Interview
+)
+
+Raw JSON Data: {"user_id":"21-68200","date_requested":"2025-05-14","time_requested":"09:30 AM","coach_id":"1","service_type":"CV Review"}
+Decoded Data: Array
+(
+    [user_id] => 21-68200
+    [date_requested] => 2025-05-14
+    [time_requested] => 09:30 AM
+    [coach_id] => 1
+    [service_type] => CV Review
+)
+
+Raw JSON Data: {"user_id":"21-68200","date_requested":"2025-05-12","time_requested":"10:30 AM","coach_id":"1","service_type":"Mock Interview"}
+Decoded Data: Array
+(
+    [user_id] => 21-68200
+    [date_requested] => 2025-05-12
+    [time_requested] => 10:30 AM
+    [coach_id] => 1
+    [service_type] => Mock Interview
+)
+
+Raw JSON Data: {"user_id":"21-68200","date_requested":"2025-05-20","time_requested":"10:00 AM","coach_id":"1","service_type":"Mock Interview"}
+Decoded Data: Array
+(
+    [user_id] => 21-68200
+    [date_requested] => 2025-05-20
+    [time_requested] => 10:00 AM
+    [coach_id] => 1
+    [service_type] => Mock Interview
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-23","time_requested":"09:30 AM","coach_id":"1","service_type":"Mock Interview"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-23
+    [time_requested] => 09:30 AM
+    [coach_id] => 1
+    [service_type] => Mock Interview
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-08","time_requested":"11:00 AM","coach_id":"1","service_type":"Career Coaching"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-08
+    [time_requested] => 11:00 AM
+    [coach_id] => 1
+    [service_type] => Career Coaching
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-29","time_requested":"12:30 PM","coach_id":"1","service_type":"Career Coaching"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-29
+    [time_requested] => 12:30 PM
+    [coach_id] => 1
+    [service_type] => Career Coaching
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-23","time_requested":"10:00 PM","coach_id":"1","service_type":"CV Review"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-23
+    [time_requested] => 10:00 PM
+    [coach_id] => 1
+    [service_type] => CV Review
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-30","time_requested":"09:00 AM","coach_id":"1","service_type":"CV Review"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-30
+    [time_requested] => 09:00 AM
+    [coach_id] => 1
+    [service_type] => CV Review
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-30","time_requested":"09:30 AM","coach_id":"1","service_type":"Career Coaching"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-30
+    [time_requested] => 09:30 AM
+    [coach_id] => 1
+    [service_type] => Career Coaching
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-30","time_requested":"08:00 AM","coach_id":"1","service_type":"CV Review"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-30
+    [time_requested] => 08:00 AM
+    [coach_id] => 1
+    [service_type] => CV Review
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-16","time_requested":"08:30 AM","coach_id":"1","service_type":"Career Coaching"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-16
+    [time_requested] => 08:30 AM
+    [coach_id] => 1
+    [service_type] => Career Coaching
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-16","time_requested":"08:00 AM","coach_id":"1","service_type":"Mock Interview"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-16
+    [time_requested] => 08:00 AM
+    [coach_id] => 1
+    [service_type] => Mock Interview
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-15","time_requested":"08:30 AM","coach_id":"1","service_type":"CV Review"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-15
+    [time_requested] => 08:30 AM
+    [coach_id] => 1
+    [service_type] => CV Review
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-09","time_requested":"10:00 AM","coach_id":"1","service_type":"Career Coaching"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-09
+    [time_requested] => 10:00 AM
+    [coach_id] => 1
+    [service_type] => Career Coaching
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-14","time_requested":"11:30 AM","coach_id":"1","service_type":"Mock Interview"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-14
+    [time_requested] => 11:30 AM
+    [coach_id] => 1
+    [service_type] => Mock Interview
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-14","time_requested":"11:00 AM","coach_id":"1","service_type":"CV Review"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-14
+    [time_requested] => 11:00 AM
+    [coach_id] => 1
+    [service_type] => CV Review
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-14","time_requested":"10:30 AM","coach_id":"1","service_type":"Career Coaching"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-14
+    [time_requested] => 10:30 AM
+    [coach_id] => 1
+    [service_type] => Career Coaching
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-15","time_requested":"09:00 AM","coach_id":"1","service_type":"Mock Interview"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-15
+    [time_requested] => 09:00 AM
+    [coach_id] => 1
+    [service_type] => Mock Interview
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-19","time_requested":"09:00 AM","coach_id":"1","service_type":"CV Review"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-19
+    [time_requested] => 09:00 AM
+    [coach_id] => 1
+    [service_type] => CV Review
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-13","time_requested":"09:00 AM","coach_id":"1","service_type":"Career Coaching"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-13
+    [time_requested] => 09:00 AM
+    [coach_id] => 1
+    [service_type] => Career Coaching
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-12","time_requested":"11:00 AM","coach_id":"1","service_type":"Career Coaching"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-12
+    [time_requested] => 11:00 AM
+    [coach_id] => 1
+    [service_type] => Career Coaching
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-12","time_requested":"10:30 AM","coach_id":"1","service_type":"Mock Interview"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-12
+    [time_requested] => 10:30 AM
+    [coach_id] => 1
+    [service_type] => Mock Interview
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-12","time_requested":"10:30 AM","coach_id":"1","service_type":"Career Coaching"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-12
+    [time_requested] => 10:30 AM
+    [coach_id] => 1
+    [service_type] => Career Coaching
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-20","time_requested":"10:00 AM","coach_id":"1","service_type":"Career Coaching"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-20
+    [time_requested] => 10:00 AM
+    [coach_id] => 1
+    [service_type] => Career Coaching
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-20","time_requested":"09:30 AM","coach_id":"1","service_type":"Career Coaching"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-20
+    [time_requested] => 09:30 AM
+    [coach_id] => 1
+    [service_type] => Career Coaching
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-19","time_requested":"09:30 AM","coach_id":"2","service_type":"CV Review"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-19
+    [time_requested] => 09:30 AM
+    [coach_id] => 2
+    [service_type] => CV Review
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-19","time_requested":"10:00 AM","coach_id":"2","service_type":"Career Coaching"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-19
+    [time_requested] => 10:00 AM
+    [coach_id] => 2
+    [service_type] => Career Coaching
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-30","time_requested":"01:00 PM","coach_id":"2","service_type":"Mock Interview"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-30
+    [time_requested] => 01:00 PM
+    [coach_id] => 2
+    [service_type] => Mock Interview
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-22","time_requested":"11:00 AM","coach_id":"2","service_type":"Mock Interview"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-22
+    [time_requested] => 11:00 AM
+    [coach_id] => 2
+    [service_type] => Mock Interview
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-26","time_requested":"08:30 AM","coach_id":"2","service_type":"CV Review"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-26
+    [time_requested] => 08:30 AM
+    [coach_id] => 2
+    [service_type] => CV Review
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-21","time_requested":"11:00 AM","coach_id":"2","service_type":"CV Review"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-21
+    [time_requested] => 11:00 AM
+    [coach_id] => 2
+    [service_type] => CV Review
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-20","time_requested":"10:00 AM","coach_id":"2","service_type":"Career Coaching"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-20
+    [time_requested] => 10:00 AM
+    [coach_id] => 2
+    [service_type] => Career Coaching
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-19","time_requested":"09:00 AM","coach_id":"2","service_type":"Career Coaching"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-19
+    [time_requested] => 09:00 AM
+    [coach_id] => 2
+    [service_type] => Career Coaching
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-20","time_requested":"09:00 AM","coach_id":"1","service_type":"Career Coaching"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-20
+    [time_requested] => 09:00 AM
+    [coach_id] => 1
+    [service_type] => Career Coaching
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-21","time_requested":"10:30 AM","coach_id":"1","service_type":"Career Coaching"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-21
+    [time_requested] => 10:30 AM
+    [coach_id] => 1
+    [service_type] => Career Coaching
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-28","time_requested":"11:00 AM","coach_id":"1","service_type":"Mock Interview"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-28
+    [time_requested] => 11:00 AM
+    [coach_id] => 1
+    [service_type] => Mock Interview
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-28","time_requested":"12:00 PM","coach_id":"1","service_type":"CV Review"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-28
+    [time_requested] => 12:00 PM
+    [coach_id] => 1
+    [service_type] => CV Review
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-12","time_requested":"11:30 AM","coach_id":"1","service_type":"Career Coaching"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-12
+    [time_requested] => 11:30 AM
+    [coach_id] => 1
+    [service_type] => Career Coaching
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-15","time_requested":"09:00 AM","coach_id":"1","service_type":"Career Coaching"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-15
+    [time_requested] => 09:00 AM
+    [coach_id] => 1
+    [service_type] => Career Coaching
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-13","time_requested":"09:00 AM","coach_id":"1","service_type":"Mock Interview"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-13
+    [time_requested] => 09:00 AM
+    [coach_id] => 1
+    [service_type] => Mock Interview
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-15","time_requested":"08:00 AM","coach_id":"1","service_type":"Mock Interview"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-15
+    [time_requested] => 08:00 AM
+    [coach_id] => 1
+    [service_type] => Mock Interview
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-14","time_requested":"10:30 AM","coach_id":"1","service_type":"CV Review"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-14
+    [time_requested] => 10:30 AM
+    [coach_id] => 1
+    [service_type] => CV Review
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-14","time_requested":"11:30 AM","coach_id":"1","service_type":"CV Review"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-14
+    [time_requested] => 11:30 AM
+    [coach_id] => 1
+    [service_type] => CV Review
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-20","time_requested":"09:00 AM","coach_id":"1","service_type":"CV Review"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-20
+    [time_requested] => 09:00 AM
+    [coach_id] => 1
+    [service_type] => CV Review
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-22","time_requested":"10:30 AM","coach_id":"1","service_type":"CV Review"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-22
+    [time_requested] => 10:30 AM
+    [coach_id] => 1
+    [service_type] => CV Review
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-19","time_requested":"09:00 AM","coach_id":"1","service_type":"Mock Interview"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-19
+    [time_requested] => 09:00 AM
+    [coach_id] => 1
+    [service_type] => Mock Interview
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-16","time_requested":"08:30 AM","coach_id":"1","service_type":"Career Coaching"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-16
+    [time_requested] => 08:30 AM
+    [coach_id] => 1
+    [service_type] => Career Coaching
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-23","time_requested":"08:30 AM","coach_id":"1","service_type":"Career Coaching"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-23
+    [time_requested] => 08:30 AM
+    [coach_id] => 1
+    [service_type] => Career Coaching
+)
+
+Raw JSON Data: {"user_id":"20-18543","date_requested":"2025-05-13","time_requested":"09:30 AM","coach_id":"1","service_type":"Career Coaching"}
+Decoded Data: Array
+(
+    [user_id] => 20-18543
+    [date_requested] => 2025-05-13
+    [time_requested] => 09:30 AM
+    [coach_id] => 1
+    [service_type] => Career Coaching
+)
+
+Raw JSON Data: {"user_id":"20-18543","date_requested":"2025-05-23","time_requested":"09:00 AM","coach_id":"1","service_type":"Mock Interview"}
+Decoded Data: Array
+(
+    [user_id] => 20-18543
+    [date_requested] => 2025-05-23
+    [time_requested] => 09:00 AM
+    [coach_id] => 1
+    [service_type] => Mock Interview
+)
+
+Raw JSON Data: {"user_id":"20-18543","date_requested":"2025-05-20","time_requested":"10:00 AM","coach_id":"1","service_type":"CV Review"}
+Decoded Data: Array
+(
+    [user_id] => 20-18543
+    [date_requested] => 2025-05-20
+    [time_requested] => 10:00 AM
+    [coach_id] => 1
+    [service_type] => CV Review
+)
+
+Raw JSON Data: {"user_id":"20-18543","date_requested":"2025-05-21","time_requested":"09:30 AM","coach_id":"1","service_type":"CV Review"}
+Decoded Data: Array
+(
+    [user_id] => 20-18543
+    [date_requested] => 2025-05-21
+    [time_requested] => 09:30 AM
+    [coach_id] => 1
+    [service_type] => CV Review
+)
+
+Raw JSON Data: {"user_id":"21-68200","date_requested":"2025-05-28","time_requested":"11:00 AM","coach_id":"1","service_type":"Career Coaching"}
+Decoded Data: Array
+(
+    [user_id] => 21-68200
+    [date_requested] => 2025-05-28
+    [time_requested] => 11:00 AM
+    [coach_id] => 1
+    [service_type] => Career Coaching
+)
+
+Raw JSON Data: {"user_id":"21-68200","date_requested":"2025-05-22","time_requested":"11:30 AM","coach_id":"1","service_type":"Career Coaching"}
+Decoded Data: Array
+(
+    [user_id] => 21-68200
+    [date_requested] => 2025-05-22
+    [time_requested] => 11:30 AM
+    [coach_id] => 1
+    [service_type] => Career Coaching
+)
+
+Raw JSON Data: {"user_id":"21-68200","date_requested":"2025-05-14","time_requested":"11:00 AM","coach_id":"1","service_type":"CV Review"}
+Decoded Data: Array
+(
+    [user_id] => 21-68200
+    [date_requested] => 2025-05-14
+    [time_requested] => 11:00 AM
+    [coach_id] => 1
+    [service_type] => CV Review
+)
+
+Raw JSON Data: {"user_id":"21-68200","date_requested":"2025-05-19","time_requested":"08:30 AM","coach_id":"1","service_type":"Mock Interview"}
+Decoded Data: Array
+(
+    [user_id] => 21-68200
+    [date_requested] => 2025-05-19
+    [time_requested] => 08:30 AM
+    [coach_id] => 1
+    [service_type] => Mock Interview
+)
+
+Raw JSON Data: {"user_id":"18-28923","date_requested":"2025-05-27","time_requested":"10:00 AM","coach_id":"1","service_type":"Career Coaching"}
+Decoded Data: Array
+(
+    [user_id] => 18-28923
+    [date_requested] => 2025-05-27
+    [time_requested] => 10:00 AM
+    [coach_id] => 1
+    [service_type] => Career Coaching
+)
+
+Raw JSON Data: {"user_id":"18-28923","date_requested":"2025-05-20","time_requested":"09:30 AM","coach_id":"1","service_type":"Mock Interview"}
+Decoded Data: Array
+(
+    [user_id] => 18-28923
+    [date_requested] => 2025-05-20
+    [time_requested] => 09:30 AM
+    [coach_id] => 1
+    [service_type] => Mock Interview
+)
+
+Raw JSON Data: {"user_id":"18-28923","date_requested":"2025-05-22","time_requested":"10:00 AM","coach_id":"1","service_type":"CV Review"}
+Decoded Data: Array
+(
+    [user_id] => 18-28923
+    [date_requested] => 2025-05-22
+    [time_requested] => 10:00 AM
+    [coach_id] => 1
+    [service_type] => CV Review
+)
+
+Raw JSON Data: {"user_id":"18-28923","date_requested":"2025-05-15","time_requested":"08:30 AM","coach_id":"1","service_type":"Mock Interview"}
+Decoded Data: Array
+(
+    [user_id] => 18-28923
+    [date_requested] => 2025-05-15
+    [time_requested] => 08:30 AM
+    [coach_id] => 1
+    [service_type] => Mock Interview
+)
+
+Raw JSON Data: {"user_id":"21-84359","date_requested":"2025-05-22","time_requested":"11:00 AM","coach_id":"1","service_type":"CV Review"}
+Decoded Data: Array
+(
+    [user_id] => 21-84359
+    [date_requested] => 2025-05-22
+    [time_requested] => 11:00 AM
+    [coach_id] => 1
+    [service_type] => CV Review
+)
+
+Raw JSON Data: {"user_id":"21-84359","date_requested":"2025-05-16","time_requested":"08:00 AM","coach_id":"1","service_type":"CV Review"}
+Decoded Data: Array
+(
+    [user_id] => 21-84359
+    [date_requested] => 2025-05-16
+    [time_requested] => 08:00 AM
+    [coach_id] => 1
+    [service_type] => CV Review
+)
+
+Raw JSON Data: {"user_id":"21-84359","date_requested":"2025-05-12","time_requested":"11:00 AM","coach_id":"1","service_type":"Career Coaching"}
+Decoded Data: Array
+(
+    [user_id] => 21-84359
+    [date_requested] => 2025-05-12
+    [time_requested] => 11:00 AM
+    [coach_id] => 1
+    [service_type] => Career Coaching
+)
+
+Raw JSON Data: {"user_id":"19-28739","date_requested":"2025-05-28","time_requested":"10:30 AM","coach_id":"1","service_type":"Career Coaching"}
+Decoded Data: Array
+(
+    [user_id] => 19-28739
+    [date_requested] => 2025-05-28
+    [time_requested] => 10:30 AM
+    [coach_id] => 1
+    [service_type] => Career Coaching
+)
+
+Raw JSON Data: {"user_id":"19-28739","date_requested":"2025-05-27","time_requested":"08:30 AM","coach_id":"1","service_type":"Mock Interview"}
+Decoded Data: Array
+(
+    [user_id] => 19-28739
+    [date_requested] => 2025-05-27
+    [time_requested] => 08:30 AM
+    [coach_id] => 1
+    [service_type] => Mock Interview
+)
+
+Raw JSON Data: {"user_id":"19-28739","date_requested":"2025-05-26","time_requested":"02:00 PM","coach_id":"1","service_type":"CV Review"}
+Decoded Data: Array
+(
+    [user_id] => 19-28739
+    [date_requested] => 2025-05-26
+    [time_requested] => 02:00 PM
+    [coach_id] => 1
+    [service_type] => CV Review
+)
+
+Raw JSON Data: {"user_id":"19-28739","date_requested":"2025-05-23","time_requested":"08:00 AM","coach_id":"1","service_type":"CV Review"}
+Decoded Data: Array
+(
+    [user_id] => 19-28739
+    [date_requested] => 2025-05-23
+    [time_requested] => 08:00 AM
+    [coach_id] => 1
+    [service_type] => CV Review
+)
+
+Raw JSON Data: {"user_id":"19-28739","date_requested":"2025-05-23","time_requested":"09:30 AM","coach_id":"1","service_type":"CV Review"}
+Decoded Data: Array
+(
+    [user_id] => 19-28739
+    [date_requested] => 2025-05-23
+    [time_requested] => 09:30 AM
+    [coach_id] => 1
+    [service_type] => CV Review
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-12","time_requested":"10:30 AM","coach_id":"4","service_type":"CV Review"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-12
+    [time_requested] => 10:30 AM
+    [coach_id] => 4
+    [service_type] => CV Review
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-15","time_requested":"10:30 AM","coach_id":"4","service_type":"Career Coaching"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-15
+    [time_requested] => 10:30 AM
+    [coach_id] => 4
+    [service_type] => Career Coaching
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-14","time_requested":"12:30 PM","coach_id":"4","service_type":"Mock Interview"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-14
+    [time_requested] => 12:30 PM
+    [coach_id] => 4
+    [service_type] => Mock Interview
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-16","time_requested":"10:00 AM","coach_id":"4","service_type":"Career Coaching"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-16
+    [time_requested] => 10:00 AM
+    [coach_id] => 4
+    [service_type] => Career Coaching
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-12","time_requested":"10:00 AM","coach_id":"4","service_type":"Mock Interview"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-12
+    [time_requested] => 10:00 AM
+    [coach_id] => 4
+    [service_type] => Mock Interview
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-14","time_requested":"11:30 AM","coach_id":"1","service_type":"Career Coaching"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-14
+    [time_requested] => 11:30 AM
+    [coach_id] => 1
+    [service_type] => Career Coaching
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-23","time_requested":"01:00 PM","coach_id":"1","service_type":"Mock Interview"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-23
+    [time_requested] => 01:00 PM
+    [coach_id] => 1
+    [service_type] => Mock Interview
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-22","time_requested":"08:30 AM","coach_id":"1","service_type":"CV Review"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-22
+    [time_requested] => 08:30 AM
+    [coach_id] => 1
+    [service_type] => CV Review
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-19","time_requested":"10:30 PM","coach_id":"1","service_type":"Career Coaching"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-19
+    [time_requested] => 10:30 PM
+    [coach_id] => 1
+    [service_type] => Career Coaching
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-21","time_requested":"10:30 AM","coach_id":"1","service_type":"Career Coaching"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-21
+    [time_requested] => 10:30 AM
+    [coach_id] => 1
+    [service_type] => Career Coaching
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-16","time_requested":"01:30 PM","coach_id":"1","service_type":"Mock Interview"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-16
+    [time_requested] => 01:30 PM
+    [coach_id] => 1
+    [service_type] => Mock Interview
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-23","time_requested":"02:00 PM","coach_id":"1","service_type":"CV Review"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-23
+    [time_requested] => 02:00 PM
+    [coach_id] => 1
+    [service_type] => CV Review
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-22","time_requested":"09:00 AM","coach_id":"1","service_type":"CV Review"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-22
+    [time_requested] => 09:00 AM
+    [coach_id] => 1
+    [service_type] => CV Review
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-19","time_requested":"11:00 AM","coach_id":"1","service_type":"Mock Interview"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-19
+    [time_requested] => 11:00 AM
+    [coach_id] => 1
+    [service_type] => Mock Interview
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-20","time_requested":"09:00 AM","coach_id":"1","service_type":"CV Review"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-20
+    [time_requested] => 09:00 AM
+    [coach_id] => 1
+    [service_type] => CV Review
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-22","time_requested":"08:00 AM","coach_id":"1","service_type":"Mock Interview"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-22
+    [time_requested] => 08:00 AM
+    [coach_id] => 1
+    [service_type] => Mock Interview
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-22","time_requested":"09:30 AM","coach_id":"1","service_type":"Career Coaching"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-22
+    [time_requested] => 09:30 AM
+    [coach_id] => 1
+    [service_type] => Career Coaching
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-26","time_requested":"01:30 PM","coach_id":"1","service_type":"Mock Interview"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-26
+    [time_requested] => 01:30 PM
+    [coach_id] => 1
+    [service_type] => Mock Interview
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-26","time_requested":"01:00 PM","coach_id":"1","service_type":"Mock Interview"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-26
+    [time_requested] => 01:00 PM
+    [coach_id] => 1
+    [service_type] => Mock Interview
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-27","time_requested":"08:30 AM","coach_id":"1","service_type":"Mock Interview"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-27
+    [time_requested] => 08:30 AM
+    [coach_id] => 1
+    [service_type] => Mock Interview
+)
+
+Raw JSON Data: {"user_id":"19-42344","date_requested":"2025-05-23","time_requested":"03:00 PM","coach_id":"1","service_type":"Mock Interview"}
+Decoded Data: Array
+(
+    [user_id] => 19-42344
+    [date_requested] => 2025-05-23
+    [time_requested] => 03:00 PM
+    [coach_id] => 1
+    [service_type] => Mock Interview
+)
+

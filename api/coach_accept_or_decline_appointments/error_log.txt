@@ -1,0 +1,287 @@
+[29-Mar-2025 13:53:12 UTC] Received JSON: null
+[29-Mar-2025 13:53:12 UTC] Received JSON: null
+[29-Mar-2025 13:56:15 UTC] Received JSON: null
+[29-Mar-2025 14:13:14 UTC] Received JSON: {"id":14,"action":"decline"}
+[29-Mar-2025 14:13:26 UTC] Received JSON: {"id":16,"action":"decline"}
+[29-Mar-2025 14:14:23 UTC] Received JSON: {"id":18,"action":"decline"}
+[29-Mar-2025 14:15:45 UTC] Received JSON: {"id":15,"action":"decline"}
+[29-Mar-2025 14:18:46 UTC] Received JSON: {"id":20,"action":"decline"}
+[29-Mar-2025 14:19:26 UTC] Received JSON: {"id":21,"action":"decline"}
+[29-Mar-2025 23:47:39 UTC] Received JSON: {"id":37,"action":"accept"}
+[29-Mar-2025 23:47:39 UTC] SQL executed successfully, affected rows: 1
+[29-Mar-2025 23:47:55 UTC] Received JSON: {"id":22,"action":"accept"}
+[29-Mar-2025 23:47:55 UTC] SQL executed successfully, affected rows: 1
+[29-Mar-2025 23:48:02 UTC] Received JSON: {"id":23,"action":"decline"}
+[29-Mar-2025 23:48:12 UTC] Received JSON: {"id":24,"action":"decline"}
+[29-Mar-2025 23:48:16 UTC] Received JSON: {"id":25,"action":"decline"}
+[29-Mar-2025 23:48:23 UTC] Received JSON: {"id":28,"action":"decline"}
+[30-Mar-2025 00:03:58 UTC] Received JSON: {"id":26,"action":"accept"}
+[30-Mar-2025 00:03:58 UTC] SQL executed successfully, affected rows: 1
+[30-Mar-2025 00:06:54 UTC] Received JSON: {"id":27,"action":"accept"}
+[30-Mar-2025 00:06:54 UTC] SQL executed successfully, affected rows: 1
+[30-Mar-2025 23:12:30 UTC] Received JSON: null
+[30-Mar-2025 23:36:59 UTC] Received JSON: null
+[30-Mar-2025 23:51:54 UTC] Received JSON: null
+[31-Mar-2025 00:45:59 UTC] Received JSON: {"appointment_id":17,"request_id":17,"student_name":"Cassiopeia Obelidor","message":"Cancellation requested by coach: jknsgnak"}
+[31-Mar-2025 00:51:58 UTC] Received JSON: null
+[31-Mar-2025 00:51:58 UTC] Missing required fields in cancellation request
+[31-Mar-2025 00:54:33 UTC] Received JSON: {"appointment_id":17,"request_id":17,"student_name":"Cassiopeia Obelidor","message":"Cancellation: dkkasj"}
+[31-Mar-2025 00:55:06 UTC] Received JSON: {"appointment_id":17,"request_id":17,"student_name":"Cassiopeia Obelidor","message":"Cancellation: I have unexpected meeting need to attend"}
+[31-Mar-2025 01:02:40 UTC] Received JSON: {"appointment_id":17,"request_id":17,"student_name":"Cassiopeia Obelidor","message":"I have unexpected meeting"}
+[31-Mar-2025 01:06:14 UTC] Received JSON: {"appointment_id":17,"request_id":17,"student_name":"Cassiopeia Obelidor","message":"Sorry, I have an unexpected meeting today need to attend\n"}
+[31-Mar-2025 01:06:35 UTC] Received JSON: {"appointment_id":17,"request_id":17,"student_name":"Cassiopeia Obelidor","message":"dnkgnk"}
+[31-Mar-2025 01:13:45 UTC] Received JSON: {"appointment_id":17,"request_id":17,"student_name":"Cassiopeia Obelidor","message":"Hi Cassiopeia, I'm sorry for the cancellation of your session I have an unexpected meeting need to attend. You can reschedule another session."}
+[31-Mar-2025 01:17:47 UTC] Received JSON: {"appointment_id":17,"request_id":17,"student_name":"Cassiopeia Obelidor","message":"bkj"}
+[31-Mar-2025 01:18:51 UTC] Received JSON: {"appointment_id":34,"request_id":34,"student_name":"Cassiopeia Obelidor","message":"Cancellation: ksbdkgbaks"}
+[31-Mar-2025 01:19:01 UTC] Received JSON: {"appointment_id":17,"request_id":17,"student_name":"Cassiopeia Obelidor","message":"Cancellation: ksbdkgbaks"}
+[31-Mar-2025 01:19:08 UTC] Received JSON: {"appointment_id":34,"request_id":34,"student_name":"Cassiopeia Obelidor","message":"Cancellation: sgkabdgkj"}
+[31-Mar-2025 01:19:08 UTC] Received JSON: {"appointment_id":34,"request_id":34,"student_name":"Cassiopeia Obelidor","message":"Cancellation: sgkabdgkj"}
+[31-Mar-2025 01:19:09 UTC] Received JSON: {"appointment_id":34,"request_id":34,"student_name":"Cassiopeia Obelidor","message":"Cancellation: sgkabdgkj"}
+[31-Mar-2025 01:19:59 UTC] Received JSON: {"appointment_id":17,"request_id":17,"student_name":"Cassiopeia Obelidor","message":"bkb"}
+[31-Mar-2025 01:20:03 UTC] Received JSON: {"appointment_id":19,"request_id":19,"student_name":"Cassiopeia Obelidor","message":"bkb"}
+[31-Mar-2025 01:20:09 UTC] Received JSON: {"appointment_id":38,"request_id":38,"student_name":"Cassiopeia Obelidor","message":"ndgnakndgkja"}
+[31-Mar-2025 01:20:11 UTC] Received JSON: {"appointment_id":38,"request_id":38,"student_name":"Cassiopeia Obelidor","message":"ndgnakndgkja"}
+[31-Mar-2025 01:20:15 UTC] Received JSON: {"appointment_id":27,"request_id":27,"student_name":"Cassiopeia Obelidor","message":"ndgnakndgkja"}
+[31-Mar-2025 01:20:17 UTC] Received JSON: {"appointment_id":27,"request_id":27,"student_name":"Cassiopeia Obelidor","message":"ndgnakndgkja"}
+[31-Mar-2025 01:20:17 UTC] Received JSON: {"appointment_id":27,"request_id":27,"student_name":"Cassiopeia Obelidor","message":"ndgnakndgkja"}
+[31-Mar-2025 01:20:26 UTC] Received JSON: {"appointment_id":17,"request_id":17,"student_name":"Cassiopeia Obelidor","message":"bdkjbs"}
+[31-Mar-2025 01:20:34 UTC] Received JSON: {"appointment_id":26,"request_id":26,"student_name":"Cassiopeia Obelidor","message":"xvbskbgksadb"}
+[31-Mar-2025 01:20:58 UTC] Received JSON: {"appointment_id":37,"request_id":37,"student_name":"Cassiopeia Obelidor","message":"jbbjsa"}
+[31-Mar-2025 01:21:07 UTC] Received JSON: {"appointment_id":22,"request_id":22,"student_name":"Cassiopeia Obelidor","message":"jbbjsa"}
+[31-Mar-2025 01:21:10 UTC] Received JSON: {"appointment_id":17,"request_id":17,"student_name":"Cassiopeia Obelidor","message":"jbbjsa"}
+[31-Mar-2025 01:21:15 UTC] Received JSON: {"appointment_id":19,"request_id":19,"student_name":"Cassiopeia Obelidor","message":"bkbk"}
+[31-Mar-2025 01:21:23 UTC] Received JSON: {"appointment_id":34,"request_id":34,"student_name":"Cassiopeia Obelidor","message":"bkb"}
+[31-Mar-2025 01:21:29 UTC] Received JSON: {"appointment_id":38,"request_id":38,"student_name":"Cassiopeia Obelidor","message":"bkbbbk"}
+[31-Mar-2025 01:31:43 UTC] Received JSON: {"id":29,"action":"accept"}
+[31-Mar-2025 01:31:44 UTC] SQL executed successfully, affected rows: 1
+[31-Mar-2025 01:54:58 UTC] Received JSON: {"id":1,"action":"accept"}
+[31-Mar-2025 01:54:59 UTC] SQL executed successfully, affected rows: 1
+[31-Mar-2025 01:55:10 UTC] Received JSON: {"id":2,"action":"accept"}
+[31-Mar-2025 01:55:10 UTC] SQL executed successfully, affected rows: 1
+[31-Mar-2025 01:55:34 UTC] Received JSON: {"id":3,"action":"accept"}
+[31-Mar-2025 01:55:34 UTC] SQL executed successfully, affected rows: 1
+[31-Mar-2025 01:56:57 UTC] Received JSON: {"id":1,"action":"accept"}
+[31-Mar-2025 01:56:57 UTC] SQL executed successfully, affected rows: 1
+[31-Mar-2025 02:07:52 UTC] Received JSON: {"id":2,"action":"accept"}
+[31-Mar-2025 02:07:52 UTC] SQL executed successfully, affected rows: 1
+[31-Mar-2025 03:22:25 UTC] Received JSON: {"id":2,"action":"decline"}
+[31-Mar-2025 03:22:33 UTC] Received JSON: {"appointment_id":1,"request_id":1,"student_name":"Cassiopeia Obelidor","message":"kdsgkaj"}
+[31-Mar-2025 03:37:51 UTC] Received JSON: {"id":1,"action":"accept"}
+[31-Mar-2025 03:37:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`final_careercoaching`.`request_appointments`, CONSTRAINT `fk_request_appointments_status` FOREIGN KEY (`appointment_id`, `status`) REFERENCES `appointments` (`id`, `status`) ON DELETE CASCADE) in D:\laragon\www\final_career_coaching\api\coach_accept_or_decline_appointments\accept_appointment.php:76
+Stack trace:
+#0 D:\laragon\www\final_career_coaching\api\coach_accept_or_decline_appointments\accept_appointment.php(76): mysqli_stmt->execute()
+#1 {main}
+  thrown in D:\laragon\www\final_career_coaching\api\coach_accept_or_decline_appointments\accept_appointment.php on line 76
+[31-Mar-2025 03:37:58 UTC] Received JSON: {"id":1,"action":"decline"}
+[31-Mar-2025 03:37:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`final_careercoaching`.`request_appointments`, CONSTRAINT `fk_request_appointments_status` FOREIGN KEY (`appointment_id`, `status`) REFERENCES `appointments` (`id`, `status`) ON DELETE CASCADE) in D:\laragon\www\final_career_coaching\api\coach_accept_or_decline_appointments\coach_decline_appointment.php:77
+Stack trace:
+#0 D:\laragon\www\final_career_coaching\api\coach_accept_or_decline_appointments\coach_decline_appointment.php(77): mysqli_stmt->execute()
+#1 {main}
+  thrown in D:\laragon\www\final_career_coaching\api\coach_accept_or_decline_appointments\coach_decline_appointment.php on line 77
+[31-Mar-2025 03:38:01 UTC] Received JSON: {"id":1,"action":"accept"}
+[31-Mar-2025 03:38:02 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`final_careercoaching`.`request_appointments`, CONSTRAINT `fk_request_appointments_status` FOREIGN KEY (`appointment_id`, `status`) REFERENCES `appointments` (`id`, `status`) ON DELETE CASCADE) in D:\laragon\www\final_career_coaching\api\coach_accept_or_decline_appointments\accept_appointment.php:76
+Stack trace:
+#0 D:\laragon\www\final_career_coaching\api\coach_accept_or_decline_appointments\accept_appointment.php(76): mysqli_stmt->execute()
+#1 {main}
+  thrown in D:\laragon\www\final_career_coaching\api\coach_accept_or_decline_appointments\accept_appointment.php on line 76
+[31-Mar-2025 03:51:07 UTC] Received JSON: {"appointment_id":17,"request_id":17,"student_name":"Cassiopeia Obelidor","message":"ngnak"}
+[31-Mar-2025 03:51:14 UTC] Received JSON: {"id":30,"action":"accept"}
+[31-Mar-2025 03:51:15 UTC] SQL executed successfully, affected rows: 1
+[31-Mar-2025 03:51:17 UTC] Received JSON: {"id":31,"action":"decline"}
+[31-Mar-2025 03:51:22 UTC] Received JSON: {"id":35,"action":"decline"}
+[31-Mar-2025 03:51:27 UTC] Received JSON: {"id":40,"action":"decline"}
+[31-Mar-2025 04:05:18 UTC] Received JSON: {"id":1,"action":"accept"}
+[31-Mar-2025 04:05:19 UTC] SQL executed successfully, affected rows: 1
+[31-Mar-2025 04:05:34 UTC] Received JSON: {"id":2,"action":"decline"}
+[31-Mar-2025 04:06:15 UTC] Received JSON: {"id":3,"action":"accept"}
+[31-Mar-2025 04:06:15 UTC] SQL executed successfully, affected rows: 1
+[31-Mar-2025 04:06:32 UTC] Received JSON: {"appointment_id":3,"request_id":3,"student_name":"Cassiopeia Obelidor","message":"I have an unexpected meeting neet to attend"}
+[31-Mar-2025 12:14:33 UTC] Received JSON: {"id":1,"action":"accept"}
+[31-Mar-2025 12:14:33 UTC] SQL executed successfully, affected rows: 1
+[31-Mar-2025 12:15:04 UTC] Received JSON: {"appointment_id":1,"request_id":1,"student_name":"Cassiopeia Obelidor","message":"kfba"}
+[31-Mar-2025 12:26:45 UTC] Received JSON: {"id":2,"action":"decline"}
+[31-Mar-2025 12:46:51 UTC] Received JSON: {"id":1,"action":"decline"}
+[31-Mar-2025 12:47:26 UTC] Received JSON: {"id":2,"action":"accept"}
+[31-Mar-2025 12:47:26 UTC] SQL executed successfully, affected rows: 1
+[31-Mar-2025 13:06:55 UTC] Input data: Array
+(
+    [id] => 2
+    [action] => accept
+)
+
+[31-Mar-2025 13:06:55 UTC] Appointment ID: 2, Action: accept
+[31-Mar-2025 13:19:01 UTC] Input data: Array
+(
+    [id] => 3
+    [action] => accept
+)
+
+[31-Mar-2025 13:19:01 UTC] Appointment ID: 3, Action: accept
+[31-Mar-2025 13:46:39 UTC] Received JSON: {"id":1,"action":"decline"}
+[31-Mar-2025 13:47:34 UTC] Received JSON: {"id":2,"action":"decline"}
+[31-Mar-2025 14:19:30 UTC] Received JSON: {"id":3,"action":"decline"}
+[31-Mar-2025 14:19:47 UTC] Received JSON: {"appointment_id":1,"request_id":1,"student_name":"Cassiopeia Obelidor","message":"bbbkjb"}
+[31-Mar-2025 15:58:00 UTC] Received JSON: {"id":1,"action":"decline"}
+[31-Mar-2025 15:59:47 UTC] Received JSON: {"id":2,"action":"decline"}
+[01-Apr-2025 01:25:22 UTC] Received JSON: {"id":1,"action":"decline"}
+[01-Apr-2025 01:46:26 UTC] Received JSON: {"id":3,"action":"decline"}
+[01-Apr-2025 01:46:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'a.user_id' in 'field list' in D:\laragon\www\final_career_coaching\api\coach_accept_or_decline_appointments\coach_decline_appointment.php:77
+Stack trace:
+#0 D:\laragon\www\final_career_coaching\api\coach_accept_or_decline_appointments\coach_decline_appointment.php(77): mysqli_stmt->execute()
+#1 {main}
+  thrown in D:\laragon\www\final_career_coaching\api\coach_accept_or_decline_appointments\coach_decline_appointment.php on line 77
+[01-Apr-2025 01:49:23 UTC] Received JSON: {"id":3,"action":"decline"}
+[01-Apr-2025 01:49:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'a.user_id' in 'field list' in D:\laragon\www\final_career_coaching\api\coach_accept_or_decline_appointments\coach_decline_appointment.php:77
+Stack trace:
+#0 D:\laragon\www\final_career_coaching\api\coach_accept_or_decline_appointments\coach_decline_appointment.php(77): mysqli_stmt->execute()
+#1 {main}
+  thrown in D:\laragon\www\final_career_coaching\api\coach_accept_or_decline_appointments\coach_decline_appointment.php on line 77
+[01-Apr-2025 01:51:37 UTC] Received JSON: {"id":3,"action":"decline"}
+[01-Apr-2025 01:51:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'a.user_id' in 'field list' in D:\laragon\www\final_career_coaching\api\coach_accept_or_decline_appointments\coach_decline_appointment.php:77
+Stack trace:
+#0 D:\laragon\www\final_career_coaching\api\coach_accept_or_decline_appointments\coach_decline_appointment.php(77): mysqli_stmt->execute()
+#1 {main}
+  thrown in D:\laragon\www\final_career_coaching\api\coach_accept_or_decline_appointments\coach_decline_appointment.php on line 77
+[01-Apr-2025 01:52:55 UTC] Received JSON: {"id":3,"action":"decline"}
+[01-Apr-2025 01:52:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'a.user_id' in 'field list' in D:\laragon\www\final_career_coaching\api\coach_accept_or_decline_appointments\coach_decline_appointment.php:77
+Stack trace:
+#0 D:\laragon\www\final_career_coaching\api\coach_accept_or_decline_appointments\coach_decline_appointment.php(77): mysqli_stmt->execute()
+#1 {main}
+  thrown in D:\laragon\www\final_career_coaching\api\coach_accept_or_decline_appointments\coach_decline_appointment.php on line 77
+[01-Apr-2025 18:52:34 UTC] Received JSON: {"id":1,"action":"decline"}
+[01-Apr-2025 18:52:34 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`final_careercoaching`.`coach_sent_notification`, CONSTRAINT `fk_notification_sender_coach` FOREIGN KEY (`sender_id`) REFERENCES `coaches` (`user_id`)) in D:\laragon\www\final_career_coaching\api\coach_accept_or_decline_appointments\coach_decline_appointment.php:77
+Stack trace:
+#0 D:\laragon\www\final_career_coaching\api\coach_accept_or_decline_appointments\coach_decline_appointment.php(77): mysqli_stmt->execute()
+#1 {main}
+  thrown in D:\laragon\www\final_career_coaching\api\coach_accept_or_decline_appointments\coach_decline_appointment.php on line 77
+[01-Apr-2025 18:55:59 UTC] Received JSON: {"id":1,"action":"decline"}
+[01-Apr-2025 18:55:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`final_careercoaching`.`coach_sent_notification`, CONSTRAINT `fk_notification_sender_coach` FOREIGN KEY (`sender_id`) REFERENCES `coaches` (`user_id`)) in D:\laragon\www\final_career_coaching\api\coach_accept_or_decline_appointments\coach_decline_appointment.php:77
+Stack trace:
+#0 D:\laragon\www\final_career_coaching\api\coach_accept_or_decline_appointments\coach_decline_appointment.php(77): mysqli_stmt->execute()
+#1 {main}
+  thrown in D:\laragon\www\final_career_coaching\api\coach_accept_or_decline_appointments\coach_decline_appointment.php on line 77
+[01-Apr-2025 18:56:29 UTC] Received JSON: {"id":1,"action":"decline"}
+[01-Apr-2025 18:56:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`final_careercoaching`.`coach_sent_notification`, CONSTRAINT `fk_notification_sender_coach` FOREIGN KEY (`sender_id`) REFERENCES `coaches` (`user_id`)) in D:\laragon\www\final_career_coaching\api\coach_accept_or_decline_appointments\coach_decline_appointment.php:77
+Stack trace:
+#0 D:\laragon\www\final_career_coaching\api\coach_accept_or_decline_appointments\coach_decline_appointment.php(77): mysqli_stmt->execute()
+#1 {main}
+  thrown in D:\laragon\www\final_career_coaching\api\coach_accept_or_decline_appointments\coach_decline_appointment.php on line 77
+[01-Apr-2025 19:04:19 UTC] Received JSON: {"id":1,"action":"decline"}
+[01-Apr-2025 19:22:58 UTC] Received JSON: {"id":3,"action":"decline"}
+[01-Apr-2025 19:23:51 UTC] Received JSON: {"appointment_id":2,"request_id":2,"student_name":"Cassiopeia Obelidor","message":"I have unexpected meeting need to attend"}
+[01-Apr-2025 19:24:11 UTC] Received JSON: {"appointment_id":2,"request_id":2,"student_name":"Cassiopeia Obelidor","message":"ndnvs"}
+[01-Apr-2025 19:31:09 UTC] Received JSON: {"appointment_id":1,"request_id":1,"student_name":"Cassiopeia Obelidor","message":"nknkas"}
+[01-Apr-2025 19:31:56 UTC] Received JSON: {"appointment_id":1,"request_id":1,"student_name":"Cassiopeia Obelidor","message":"nkk"}
+[02-Apr-2025 00:35:01 UTC] Received JSON: {"appointment_id":1,"request_id":1,"student_name":"Cassiopeia Obelidor","message":"nkbkg"}
+[02-Apr-2025 03:44:39 UTC] Received JSON: {"id":2,"action":"decline"}
+[02-Apr-2025 03:44:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'final_careercoaching.appointment_status_tracking' doesn't exist in D:\laragon\www\final_career_coaching\api\coach_accept_or_decline_appointments\coach_decline_appointment.php:77
+Stack trace:
+#0 D:\laragon\www\final_career_coaching\api\coach_accept_or_decline_appointments\coach_decline_appointment.php(77): mysqli_stmt->execute()
+#1 {main}
+  thrown in D:\laragon\www\final_career_coaching\api\coach_accept_or_decline_appointments\coach_decline_appointment.php on line 77
+[02-Apr-2025 03:53:10 UTC] Received JSON: {"id":3,"action":"decline"}
+[02-Apr-2025 21:06:26 UTC] Received JSON: {"id":2,"action":"decline"}
+[07-Apr-2025 12:03:12 UTC] Received JSON: {"id":4,"action":"decline"}
+[10-Apr-2025 04:53:53 UTC] Received JSON: {"id":9,"action":"decline"}
+[10-Apr-2025 05:00:15 UTC] Received JSON: {"id":14,"action":"decline"}
+[10-Apr-2025 05:11:07 UTC] Received JSON: {"id":16,"action":"decline"}
+[11-Apr-2025 23:13:08 UTC] Received JSON: {"id":17,"action":"decline"}
+[11-Apr-2025 23:22:24 UTC] Received JSON: {"id":18,"action":"decline"}
+[12-Apr-2025 01:57:49 UTC] Received JSON: {"id":1,"action":"decline"}
+[27-Apr-2025 14:31:13 UTC] Received JSON: {"id":17,"action":"decline"}
+[28-Apr-2025 05:45:45 UTC] Received JSON: {"id":15,"action":"decline"}
+[29-Apr-2025 02:37:25 UTC] Received JSON: {"id":18,"action":"decline"}
+[29-Apr-2025 02:37:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'student_name' in 'field list' in D:\laragon\www\final_career_coaching\api\coach_accept_or_decline_appointments\coach_decline_appointment.php:77
+Stack trace:
+#0 D:\laragon\www\final_career_coaching\api\coach_accept_or_decline_appointments\coach_decline_appointment.php(77): mysqli_stmt->execute()
+#1 {main}
+  thrown in D:\laragon\www\final_career_coaching\api\coach_accept_or_decline_appointments\coach_decline_appointment.php on line 77
+[29-Apr-2025 02:37:31 UTC] Received JSON: {"id":19,"action":"decline"}
+[29-Apr-2025 02:37:32 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'student_name' in 'field list' in D:\laragon\www\final_career_coaching\api\coach_accept_or_decline_appointments\coach_decline_appointment.php:77
+Stack trace:
+#0 D:\laragon\www\final_career_coaching\api\coach_accept_or_decline_appointments\coach_decline_appointment.php(77): mysqli_stmt->execute()
+#1 {main}
+  thrown in D:\laragon\www\final_career_coaching\api\coach_accept_or_decline_appointments\coach_decline_appointment.php on line 77
+[29-Apr-2025 02:54:01 UTC] Received JSON: {"id":18,"action":"decline"}
+[29-Apr-2025 02:54:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'student_name' in 'field list' in D:\laragon\www\final_career_coaching\api\coach_accept_or_decline_appointments\coach_decline_appointment.php:77
+Stack trace:
+#0 D:\laragon\www\final_career_coaching\api\coach_accept_or_decline_appointments\coach_decline_appointment.php(77): mysqli_stmt->execute()
+#1 {main}
+  thrown in D:\laragon\www\final_career_coaching\api\coach_accept_or_decline_appointments\coach_decline_appointment.php on line 77
+[29-Apr-2025 02:55:37 UTC] Received JSON: {"id":18,"action":"decline"}
+[29-Apr-2025 02:55:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'student_name' in 'field list' in D:\laragon\www\final_career_coaching\api\coach_accept_or_decline_appointments\coach_decline_appointment.php:77
+Stack trace:
+#0 D:\laragon\www\final_career_coaching\api\coach_accept_or_decline_appointments\coach_decline_appointment.php(77): mysqli_stmt->execute()
+#1 {main}
+  thrown in D:\laragon\www\final_career_coaching\api\coach_accept_or_decline_appointments\coach_decline_appointment.php on line 77
+[29-Apr-2025 02:56:02 UTC] Received JSON: {"id":18,"action":"decline"}
+[29-Apr-2025 02:56:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'student_name' in 'field list' in D:\laragon\www\final_career_coaching\api\coach_accept_or_decline_appointments\coach_decline_appointment.php:77
+Stack trace:
+#0 D:\laragon\www\final_career_coaching\api\coach_accept_or_decline_appointments\coach_decline_appointment.php(77): mysqli_stmt->execute()
+#1 {main}
+  thrown in D:\laragon\www\final_career_coaching\api\coach_accept_or_decline_appointments\coach_decline_appointment.php on line 77
+[29-Apr-2025 03:01:37 UTC] Received JSON: {"id":18,"action":"decline"}
+[29-Apr-2025 03:01:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'student_name' in 'field list' in D:\laragon\www\final_career_coaching\api\coach_accept_or_decline_appointments\coach_decline_appointment.php:77
+Stack trace:
+#0 D:\laragon\www\final_career_coaching\api\coach_accept_or_decline_appointments\coach_decline_appointment.php(77): mysqli_stmt->execute()
+#1 {main}
+  thrown in D:\laragon\www\final_career_coaching\api\coach_accept_or_decline_appointments\coach_decline_appointment.php on line 77
+[29-Apr-2025 03:02:36 UTC] Received JSON: {"id":18,"action":"decline"}
+[29-Apr-2025 03:02:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'student_name' in 'field list' in D:\laragon\www\final_career_coaching\api\coach_accept_or_decline_appointments\coach_decline_appointment.php:77
+Stack trace:
+#0 D:\laragon\www\final_career_coaching\api\coach_accept_or_decline_appointments\coach_decline_appointment.php(77): mysqli_stmt->execute()
+#1 {main}
+  thrown in D:\laragon\www\final_career_coaching\api\coach_accept_or_decline_appointments\coach_decline_appointment.php on line 77
+[30-Apr-2025 11:06:45 UTC] Received JSON: {"id":18,"action":"decline"}
+[30-Apr-2025 11:06:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'student_name' in 'field list' in D:\laragon\www\final_career_coaching\api\coach_accept_or_decline_appointments\coach_decline_appointment.php:77
+Stack trace:
+#0 D:\laragon\www\final_career_coaching\api\coach_accept_or_decline_appointments\coach_decline_appointment.php(77): mysqli_stmt->execute()
+#1 {main}
+  thrown in D:\laragon\www\final_career_coaching\api\coach_accept_or_decline_appointments\coach_decline_appointment.php on line 77
+[30-Apr-2025 11:08:04 UTC] Received JSON: {"id":18,"action":"decline"}
+[30-Apr-2025 11:14:53 UTC] Received JSON: {"id":20,"action":"decline"}
+[30-Apr-2025 11:14:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Can't update table 'request_appointments' in stored function/trigger because it is already used by statement which invoked this stored function/trigger. in D:\laragon\www\final_career_coaching\api\coach_accept_or_decline_appointments\coach_decline_appointment.php:77
+Stack trace:
+#0 D:\laragon\www\final_career_coaching\api\coach_accept_or_decline_appointments\coach_decline_appointment.php(77): mysqli_stmt->execute()
+#1 {main}
+  thrown in D:\laragon\www\final_career_coaching\api\coach_accept_or_decline_appointments\coach_decline_appointment.php on line 77
+[30-Apr-2025 11:20:13 UTC] Received JSON: {"id":20,"action":"decline"}
+[30-Apr-2025 11:22:24 UTC] Received JSON: {"id":23,"action":"decline"}
+[30-Apr-2025 11:23:26 UTC] Received JSON: {"id":23,"action":"decline"}
+[30-Apr-2025 11:23:45 UTC] Received JSON: {"id":23,"action":"decline"}
+[30-Apr-2025 11:24:14 UTC] Received JSON: {"id":23,"action":"decline"}
+[30-Apr-2025 11:25:24 UTC] Received JSON: {"id":29,"action":"decline"}
+[30-Apr-2025 11:25:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Can't update table 'request_appointments' in stored function/trigger because it is already used by statement which invoked this stored function/trigger. in D:\laragon\www\final_career_coaching\api\coach_accept_or_decline_appointments\coach_decline_appointment.php:77
+Stack trace:
+#0 D:\laragon\www\final_career_coaching\api\coach_accept_or_decline_appointments\coach_decline_appointment.php(77): mysqli_stmt->execute()
+#1 {main}
+  thrown in D:\laragon\www\final_career_coaching\api\coach_accept_or_decline_appointments\coach_decline_appointment.php on line 77
+[30-Apr-2025 11:28:41 UTC] Received JSON: {"id":29,"action":"decline"}
+[30-Apr-2025 11:28:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Can't update table 'request_appointments' in stored function/trigger because it is already used by statement which invoked this stored function/trigger. in D:\laragon\www\final_career_coaching\api\coach_accept_or_decline_appointments\coach_decline_appointment.php:77
+Stack trace:
+#0 D:\laragon\www\final_career_coaching\api\coach_accept_or_decline_appointments\coach_decline_appointment.php(77): mysqli_stmt->execute()
+#1 {main}
+  thrown in D:\laragon\www\final_career_coaching\api\coach_accept_or_decline_appointments\coach_decline_appointment.php on line 77
+[30-Apr-2025 11:30:02 UTC] Received JSON: {"id":29,"action":"decline"}
+[30-Apr-2025 11:30:02 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Can't update table 'request_appointments' in stored function/trigger because it is already used by statement which invoked this stored function/trigger. in D:\laragon\www\final_career_coaching\api\coach_accept_or_decline_appointments\coach_decline_appointment.php:77
+Stack trace:
+#0 D:\laragon\www\final_career_coaching\api\coach_accept_or_decline_appointments\coach_decline_appointment.php(77): mysqli_stmt->execute()
+#1 {main}
+  thrown in D:\laragon\www\final_career_coaching\api\coach_accept_or_decline_appointments\coach_decline_appointment.php on line 77
+[30-Apr-2025 11:30:53 UTC] Received JSON: {"id":29,"action":"decline"}
+[30-Apr-2025 11:34:11 UTC] Received JSON: {"id":31,"action":"decline"}
+[30-Apr-2025 11:36:24 UTC] Received JSON: {"id":32,"action":"decline"}
+[30-Apr-2025 13:11:48 UTC] Received JSON: {"id":34,"action":"decline"}
+[30-Apr-2025 13:33:53 UTC] Received JSON: {"id":3,"action":"decline"}
+[30-Apr-2025 14:43:52 UTC] Received JSON: {"id":7,"action":"decline"}
+[01-May-2025 00:36:08 UTC] Received JSON: {"id":36,"action":"decline"}
+[01-May-2025 02:44:12 UTC] Received JSON: {"id":8,"action":"decline"}
+[04-May-2025 13:17:34 UTC] Received JSON: {"id":11,"action":"decline"}
+[04-May-2025 23:08:05 UTC] Received JSON: {"id":20,"action":"decline"}
+[05-May-2025 01:58:29 UTC] Received JSON: {"id":7,"action":"decline"}
+[05-May-2025 10:40:24 UTC] Received JSON: {"id":9,"action":"decline"}
+[05-May-2025 22:29:17 UTC] Received JSON: {"id":12,"action":"decline"}
+[05-May-2025 22:40:34 UTC] Received JSON: {"id":15,"action":"decline"}
+[07-May-2025 01:53:37 UTC] Received JSON: {"id":1,"action":"decline"}
+[07-May-2025 02:00:16 UTC] Received JSON: {"id":6,"action":"decline"}
+[10-May-2025 06:44:10 UTC] Received JSON: {"id":11,"action":"decline"}
